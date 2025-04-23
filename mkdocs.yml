@@ -1,1 +1,9 @@
 site_name: Fab Lab Ísland bootcamp Húsavík 2025
+site_description: Ár hvert hittist starfsfólk úr Fab Lab Íslands víðsvegar um allt land til að deila þekkingu og reynslu. 2025 verður haldið í Húsavík.
+#site_url: 
+
+theme:
+  name: material
+  #logo: 
+  #favicon: assets/logo/favicon/favicon.png
+  language: en
