@@ -1,0 +1,16 @@
+authors:
+  Þórarinn:
+    name: Þórarinn Bjartur Breiðfjörð
+    description: Ísafjörð
+    avatar: https://media.licdn.com/dms/image/v2/D4E03AQHtoKvcKqZl7g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724453856326?e=2147483647&v=beta&t=xk8-tkF6v0Mn-k-wwqNVNG8iRd5glmp92x7IDMBkZK0
+   # url: https://www.youtube.com/@james-willett?sub_confirmation=1
+  Árni:
+    name: Árni
+    description: Akureyri
+    avatar: ../assets/arni.jpeg
+   # url: https://www.youtube.com/@james-willett?sub_confirmation=1   
+  Ólöf:
+    name: Ólöf
+    description: Austurland
+    avatar: ../assets/olof.jpeg
+   # url: https://www.youtube.com/@james-willett?sub_confirmation=1

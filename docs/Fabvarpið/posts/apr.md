@@ -1,0 +1,30 @@
+---
+date: 2025-04-23
+authors: [Þórarinn]
+description: >
+  Síðan komin í loftið
+
+#draft: true
+categories:
+  - bootcamp
+  - síðan
+#tags:
+#  - YouTube
+#  - Material for MkDocs
+---
+
+# Síðan komin í loftið 🚀
+
+!!! tip "🎉 Fab Lab Ísland Bootcamp – þetta er að fara af stað!"
+    Bootcampið verður haldið á Húsavík **20.–24. maí**.
+
+Síðan fyrir **Fab Lab Ísland Bootcamp 2025 á Húsavík** er komin í loftið!
+
+Þegar nær dregur munum við halda utan um það sem gerist í verki, myndum, orðum og jafnvel hljóði 🎧
+
+Á síðunni munum við setja inn tilkynningar og að minnsta kosti eina færslu á dag um það sem er að gerast.
+
+Við fylgjumst með **verkefnavinnu**, **heimsóknum** og **kynningum**, og deilum öllu því helsta sem smiðjur hafa verið að gera og tileinka sér – bæði hér heima og víðsvegar um heim.
+
+**Verið velkomin á síðuna og endilega fylgist með!**
+

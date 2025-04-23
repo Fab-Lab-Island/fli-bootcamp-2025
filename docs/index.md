@@ -1,2 +1,4 @@
-# Halló frá bootcamp síðu fab Lab Íslands 2025
+# Bootcamp Húsavík 2025
+
+Halló frá bootcamp Húsavík!
 
