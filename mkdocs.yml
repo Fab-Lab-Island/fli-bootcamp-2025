@@ -1,10 +1,10 @@
-site_name: Fab Lab Ísland - Öflugt þekkingarnet 
+site_name: Fab Lab Ísland 
 site_description: Ár hvert hittist starfsfólk úr Fab Lab Íslands víðsvegar um allt land til að deila þekkingu og reynslu. 2025 verður haldið í Húsavík.
 #site_url: 
 
 theme:
   name: material
-  #logo: 
+  logo: https://www.fla.is/img/faviconwhite.png
   #favicon: assets/logo/favicon/favicon.png
   language: en
 

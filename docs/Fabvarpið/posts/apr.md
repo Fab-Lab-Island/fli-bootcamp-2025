@@ -28,3 +28,5 @@ Við fylgjumst með **verkefnavinnu**, **heimsóknum** og **kynningum**, og deil
 
 **Verið velkomin á síðuna og endilega fylgist með!**
 
+![loft](https://c.pxhere.com/images/6f/5a/6df363ffa48b5c3d8bf9c3f6b0fe-1640254.jpg!d){width=50%}
+
