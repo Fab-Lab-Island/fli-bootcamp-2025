@@ -2,3 +2,7 @@
 
 Halló frá bootcamp Húsavík!
 
+Við erum að koma
+
+[fablab.is síðan](https://fablab.is/)
+
