@@ -1,8 +1,15 @@
+---
+hide:
+  - navigation
+  - toc
+  - path
+---
+
 # Bootcamp Húsavík 2025
 
-Halló frá bootcamp Húsavík!
+![velkomin](assets/img/index/velkomin_comp.jpg){width=70%}
 
-Við erum að koma
+> Stefán forstöðumaður fab Lab Húsavíkur býður ykkur velkomin!
 
-[fablab.is síðan](https://fablab.is/)
+[fablab.is](https://fablab.is/)
 
