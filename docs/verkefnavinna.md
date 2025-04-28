@@ -15,3 +15,4 @@
 - 5volta transistor 5 og 20 volt
 - LoRa Meshtastic?
 - Laser Nafnspjöld
+- Koma MDX20 í gagnið og documenta
