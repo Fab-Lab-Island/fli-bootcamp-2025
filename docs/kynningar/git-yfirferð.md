@@ -33,3 +33,5 @@ Farið yfir hvernig við setjum inn efni á þessari síðu.
 
 - [ ] hér eitthvað sem þarf að gera
 - [x] hér er eitthvað sem er búið að gera
+
+- [ ] set eitthvað hér
