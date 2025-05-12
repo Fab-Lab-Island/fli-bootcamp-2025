@@ -1,0 +1,1 @@
+# Hér koma QC-hack leiðbeiningar
