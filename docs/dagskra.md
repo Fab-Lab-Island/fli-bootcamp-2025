@@ -44,7 +44,8 @@ Dagskrá hefst kl 9:00 nema annað sé tekið fram.
 - **9:00** – (Nánast) hvaða spenna sem er úr USB hleðslutæki  
 - **11:00** – Github documentation  
 - **12:00** – Grillhádegisverður á Stéttinni  
-- **13:00** – Github skrásetning  
+- **13:00** – Github skrásetning
+- **14:00** – Málmfræsing/Tæknigróðurhús  
 - **17:00** – Sjóböðingera­sigfinnar­yfir árshátíð  
 - **19:00–23:00** – **ÁRSHÁTÍÐ** – Stemning / eldur / Hljóðfæri / Snakk / Dans
 
