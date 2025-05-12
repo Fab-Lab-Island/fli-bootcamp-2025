@@ -1,3 +1,3 @@
 # QC-hack
 
-## hér koma QC hack leiðbeiningar
+hér koma QC hack leiðbeiningar
