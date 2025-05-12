@@ -11,7 +11,7 @@
 - Tækni mini gróðurhús - Fræ
 - Led
 - Stafræn saumavél
-- (Nánast) hvaða spenna sem er úr USB hleðslutæki
+- (Nánast) hvaða spenna sem er úr USB hleðslutæki (andri test)
 - 5volta transistor 5 og 20 volt
 - LoRa Meshtastic?
 - Laser Nafnspjöld
