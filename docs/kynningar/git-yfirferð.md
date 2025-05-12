@@ -35,3 +35,5 @@ Farið yfir hvernig við setjum inn efni á þessari síðu.
 - [x] hér er eitthvað sem er búið að gera
 
 - [ ] set eitthvað hér
+
+set eitthvað meira inn
