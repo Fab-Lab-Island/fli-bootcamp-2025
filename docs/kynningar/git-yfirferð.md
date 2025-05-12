@@ -12,13 +12,13 @@ Farið yfir hvernig við setjum inn efni á þessari síðu.
   - Mkdocs material
 - Umhverfi sem við getum notað
   - Breyta á github.com
-    - ýtta á ```.``` til að opna betra umhverfi til að breyta.
+    - ýta á ```.``` til að opna betra umhverfi til að breyta.
   - Breyta í VS code
-  - Hægt að nota markgt annað
+  - Hægt að nota margt annað
 - Prófum að setja efni inn á síðnna
   - Leiðrétta stafsetningarvillunar mínar.
-  - Breyta dagsrká
-  - Setja inn undirsíður fyrir verkefna vinnu
+  - Breyta dagskrá
+  - Setja inn undirsíður fyrir verkefnavinnu
  
 Það þarf ekkert að nota markdown venjulegur texti virkar alveg https://www.fabisa.is/
 
@@ -36,4 +36,4 @@ Farið yfir hvernig við setjum inn efni á þessari síðu.
 
 - [ ] set eitthvað hér
 
-set eitthvað meira inn
+Set eitthvað meira inn
