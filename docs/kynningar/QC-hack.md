@@ -50,7 +50,7 @@ Dæmi um 12V Output hleðslutæki
 Svo er önnur útgáfa af brettinu með pinnum sem hægt er að stinga í socket eða brauðbretti í staðinn fyrir screw terminal tengið.
 
 ### QC-Hack með pinnum
-![QC-Hack með pinnum](../assets/img/qcHack/qcHackWithPins.jpg)
+![QC-Hack með pinnum](../assets/img/qcHack/qcHackWithPins.jpg){ width="300" }
 /// caption
 QC-hack með pinnum
 ///
@@ -74,10 +74,10 @@ Aftur undir Quick Setup, veljið Top Cut og passið að Drill layer sé sýnileg
 Ef þið nennið ekki að fara í gegnum KiCAD - Gerber2PNG ferlið þá eru .png skrárnar hér.
 
 jpeg renders of milling files
-<div class="three-images">
-    <img src="../../assets/img/qcHack/QC_Hack_Trace_JPEG.jpg" alt="Image 1" class="two-image-size">
-    <img src="../../assets/img/qcHack/QC_Hack_Cut_JPEG.jpg" alt="Image 1" class="two-image-size">
-</div>
+
+![QC-Hack trace](../assets/img/qcHack/QC_Hack_Trace_JPEG.jpg){ width="300" }
+
+![QC-Hack trace](../assets/img/qcHack/QC_Hack_Cut_JPEG.jpg){ width="300" }
 
 [Download Trace .png file](../files/useful/QC_Hack_redesign_trace.png) 
 
