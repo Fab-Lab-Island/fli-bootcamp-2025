@@ -11,9 +11,6 @@ Lesið ítarlegt documentation eftir Nicolas til að vita meira um verkefnið
 
 ### QC-Hack Upprunalega brettið
 ![QC-Hack original](../assets/img/qcHack/QC_Hack_Board_original.jpg)
-/// caption
-Upprunalega QC brettið
-///
 
 ## QC Hack - Endurhönnun
 
@@ -21,23 +18,14 @@ Upprunalega QC brettið
 
 ### QC-Hack Endurhannað bretti
 ![QC-Hack redesign](../assets/img/qcHack/QC_Hack_Board.jpg)
-/// caption
-Endurhannað bretti
-///
 
 Pælingin á bakvið verkefnið er einföd, nota QuickCharge USB-! hleðslutæki til að fá spennu á brettið og annaðhvort í kóða eða með potentiometer er hægt að breyta spennu frá 3.6V upp í 20V. Þetta er mjög sniðugt fyrir verkefni sem þurfa meira en 5V spennu.
 
 Það þarf að vanda valið á hleðslutæki. Verið viss um að Output í hleðslutækinu fari upp í 20V ef það er það sem verkefnið þitt þarf.
 
 [Example 20V output current charger](https://nedis.com/en-us/product/computer-and-mobile/power-supply/usb-chargers/550783985/wall-charger-65-w-gan-pd30-18w-pd30-20w-pd30-27w-pd30-36w-pd30-45w-pd30-60w-pd30-65w-qc30-quick-charge-feature-30-325-a-number-of-outputs-3-usb-a-2x-usb-c-automatic-voltage-selection-black)
-/// caption
-Dæmi um 20 Output hleðslutæki
-///
 
 [Example 12V output current charger](https://nedis.com/en-us/product/computer-and-mobile/power-supply/usb-chargers/550732027/wall-charger-18-w-quick-charge-feature-15-20-30-a-number-of-outputs-1-usb-a-no-cable-included-automatic-voltage-selection-black)
-/// caption
-Dæmi um 12V Output hleðslutæki
-///
 
 ### KiCad project 1 (with screw terminal)
 
@@ -51,9 +39,6 @@ Svo er önnur útgáfa af brettinu með pinnum sem hægt er að stinga í socket
 
 ### QC-Hack með pinnum
 ![QC-Hack með pinnum](../assets/img/qcHack/qcHackWithPins.jpg){ width="300" }
-/// caption
-QC-hack með pinnum
-///
 
 [Download KiCad files (with pins)](../assets/files/qcHack/QC_Hack_wPins.zip)
 
@@ -120,10 +105,6 @@ Með þessum breytingum getur þú stillt spennu með potentiometer á hvaða gi
 
 ### QC-Hack samþætt í bretti
 ![QC-Hack samþætt](../assets/img/qcHack/qcHackIntegrated.jpg)
-/// caption
-QC-hack samþætt í bretti
-///
-
 
 !!! note
     Vertu viss um að USB hleðslutækið styðji við 20V Output ef það er það sem þú þarft.
