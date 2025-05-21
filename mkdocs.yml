@@ -50,6 +50,11 @@ plugins:
       blog_toc: true
       post_url_format: "{slug}"
 
+  - mkdocs-video:
+      is_video: True
+      # video_muted: True
+      video_controls: True
+
   - table-reader
 
 extra:
