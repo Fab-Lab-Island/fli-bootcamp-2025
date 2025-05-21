@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch full Git history for git-* plugins
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
@@ -18,10 +20,6 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material
-      - run: pip install pillow cairosvg
-      - run: pip install mkdocs-table-reader-plugin
-      - run: pip install mkdocs-video
-      - run: pip install mkdocs-caption
-      - run: pip install mkdocs-git-authors-plugin
+      - run: sudo apt-get update && sudo apt-get install -y git
+      - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force

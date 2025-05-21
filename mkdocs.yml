@@ -1,27 +1,23 @@
 site_name: Fab Lab Ísland 
 site_description: Ár hvert hittist starfsfólk úr Fab Lab Íslands víðsvegar um allt land til að deila þekkingu og reynslu. 2025 verður haldið í Húsavík.
-#site_url: 
+# site_url: 
 
 theme:
   name: material
   logo: https://www.fla.is/img/faviconwhite.png
-  #favicon: assets/logo/favicon/favicon.png
   language: en
-
-
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
     - navigation.top
     - navigation.indexes
+    - navigation.expand
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - navigation.expand
-
   palette:
     - scheme: default
       primary: blue grey
@@ -30,34 +26,31 @@ theme:
         icon: material/lightbulb
         name: Switch to dark mode
     - scheme: slate
-      primary: blue grey 
+      primary: blue grey
       accent: teal
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
 
-#extra_css:
-#  - stylesheets/extra.css
+# Uncomment if using custom styles
+# extra_css:
+#   - stylesheets/extra.css
 
 plugins:
-#  - social
   - search
-# - tags
-# - tags:
-#      tags_file: tags.md
+  - git-authors:
+      fallback_to_git: true
+  - git-revision-date-localized:
+      enable_creation_date: true
   - blog:
       blog_dir: Fabvarpið
       blog_toc: true
       post_url_format: "{slug}"
-
   - mkdocs-video:
-      is_video: True
-      # video_muted: True
-      video_controls: True
-
+      is_video: true
+      video_controls: true
   - table-reader
   - caption
-  - git-authors
 
 extra:
   analytics:
@@ -81,18 +74,15 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - admonition
-  - pymdownx.arithmatex:
-      generic: true
-  - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
-  - attr_list
-  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-
-
+  - pymdownx.arithmatex:
+      generic: true
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
