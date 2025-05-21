@@ -22,4 +22,5 @@ jobs:
       - run: pip install pillow cairosvg
       - run: pip install mkdocs-table-reader-plugin
       - run: pip install mkdocs-video
+      - run: pip install mkdocs-caption
       - run: mkdocs gh-deploy --force
