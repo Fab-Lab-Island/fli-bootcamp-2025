@@ -1,4 +1,8 @@
-# Yfirferð á Git
+# Skjalfesting á Git
+
+- Afhverju
+- hverning
+- Hvernar
 
 Farið yfir hvernig við setjum inn efni á þessari síðu.
 
