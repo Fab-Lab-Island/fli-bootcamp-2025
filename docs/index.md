@@ -15,6 +15,9 @@ hide:
 
 [fablab.is](https://fablab.is/)
 
+![alt text](assets/img/index/intro_compressed.jpg)
+![alt text](assets/img/index/matur_compressed.jpg)
+![alt text](assets/img/index/qc_compressed.jpg)
 
 ## Bootcamp fyrri ára
 
