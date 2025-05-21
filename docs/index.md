@@ -9,7 +9,7 @@ hide:
 
 ![velkomin](assets/img/index/velkomin_comp.jpg){width=70%}
 
-> Stefán forstöðumaður fab Lab Húsavíkur býður ykkur velkomin!
+> Stefán forstöðumaður fab Lab Húsavíkur býður ykkur velkomin! 
 
 📍[Húsavík](https://maps.app.goo.gl/7h69oiuoJvUz5X8i9)
 
