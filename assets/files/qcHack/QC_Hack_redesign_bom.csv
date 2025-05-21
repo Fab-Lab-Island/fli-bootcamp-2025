@@ -1,0 +1,14 @@
+﻿Designator,Quantity,Value,DigiKey Link
+C1,1,1µF-10µF,[DigiKey](https://www.digikey.com/en/products/detail/tdk-corporation/C3216X7R1H105K160AB/569049){target=_blank}
+D1,1,LED,[DigiKey](https://www.digikey.com/en/products/detail/lumex-opto-components-inc/SML-LX1206GC-TR/229139){target=_blank}
+J2,1,Screw_Terminal_01x02_P3.5mm,[DigiKey](https://www.digikey.com/en/products/detail/on-shore-technology-inc/OSTTE020104/2351816){target=_blank}
+J4,1,Conn_PinHeader_1x01_P2.54mm_Horizontal_SMD,[DigiKey](https://www.digikey.com/en/products/detail/sullins-connector-solutions/GBC36SGSN-M89/862355){target=_blank}
+P1,1,Conn_USB_A_Plug,[DigiKey](https://www.digikey.com/en/products/detail/adam-tech/USB-AP-S-RA-SMT/9832307){target=_blank}
+R1,1,2.2k,[DigiKey](https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ1206F2K2/8576416){target=_blank}
+"R2, R5",2,10k,[DigiKey](https://www.digikey.com/en/products/detail/yageo/RC1206FR-0710KL/728483){target=_blank}
+"R3, R4",2,1k,[DigiKey](https://www.digikey.com/en/products/detail/yageo/RC1206FR-071KL/728387){target=_blank}
+R6,1,47k,[DigiKey](https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ1206F47K/8576432){target=_blank}
+R7,1,4.7k,[DigiKey](https://www.digikey.com/en/products/detail/yageo/RC1206FR-074K7L/728887){target=_blank}
+RV1,1,R_POT_10K_Trimmer,[DigiKey](https://www.digikey.com/en/products/detail/nidec-copal-electronics/ST4ETB103/738213){target=_blank}
+U1,1,ATtiny412-SS,[DigiKey](https://www.digikey.com/en/products/detail/microchip-technology/ATTINY412-SSFR/9554947){target=_blank}
+U3,1,lm3480-3.3,[DigiKey](https://www.digikey.com/en/products/detail/texas-instruments/LM3480IM3-3-3-NOPB/270720){target=_blank}
