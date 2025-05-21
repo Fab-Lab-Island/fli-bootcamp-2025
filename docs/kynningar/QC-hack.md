@@ -109,8 +109,8 @@ Með þessum breytingum getur þú stillt spennu með potentiometer á hvaða gi
 !!! note
     Vertu viss um að USB hleðslutækið styðji við 20V Output ef það er það sem þú þarft.
 
-![12V USB charger](../images/useful/USB_12V_charger.jpg)
+![12V USB charger](../assets/img/qcHack/USB_12V_charger.jpg)
 
 Þetta hleðslutæki styður t.d. bara við upp að 12V output.
 
-![type:video](../videos/useful/QC_multimeter.mp4)
+![type:video](../assets/videos/QC_multimeter.mp4)
