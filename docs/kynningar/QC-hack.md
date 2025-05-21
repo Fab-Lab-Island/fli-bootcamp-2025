@@ -85,7 +85,7 @@ jpeg renders of milling files
 
 ### Bill of Material - BOM
 
-{{ read_csv('../files/useful/QC_Hack_redesign_bom.csv') }}
+{{ read_csv('../assets/files/qcHack/QC_Hack_redesign_bom.csv') }}
 
 ## Code
 
