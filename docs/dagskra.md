@@ -17,7 +17,7 @@ Dagskrá hefst kl 9:00 nema annað sé tekið fram.
 ## Miðvikudagur 21. maí
 - **8:00** – MÆTING KL 09:00
 - **9:00** – Velkomin kynning / Github skrásetning 
-- **10:00** – (Nánast) hvaða spenna sem er með QC hack  
+- **10:00** – (Nánast) hvaða spenna sem er með QC hack  - andri
 - **12:00** – **Hádegismatur** á Bauknum sirka 3.500 kr.  
 - **13:00** – X Tool  
 - **15:00** – N. Hansen- Metal Fuse
