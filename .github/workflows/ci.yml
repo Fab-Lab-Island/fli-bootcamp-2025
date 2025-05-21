@@ -20,6 +20,7 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material
       - run: pip install pillow cairosvg
+      - run: pip install mkdocs-table-reader-plugin
       - run: mkdocs gh-deploy --force
       - run: mkdocs-table-reader-plugin
       - run: mkdocs-video
