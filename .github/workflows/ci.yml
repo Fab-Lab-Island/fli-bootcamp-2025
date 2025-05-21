@@ -23,4 +23,5 @@ jobs:
       - run: pip install mkdocs-table-reader-plugin
       - run: pip install mkdocs-video
       - run: pip install mkdocs-caption
+      - run: pip install mkdocs-git-authors-plugin
       - run: mkdocs gh-deploy --force
