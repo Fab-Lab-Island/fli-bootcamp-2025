@@ -50,6 +50,8 @@ plugins:
       blog_toc: true
       post_url_format: "{slug}"
 
+  - table-reader
+
 extra:
   analytics:
     provider: google

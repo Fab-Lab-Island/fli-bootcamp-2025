@@ -75,8 +75,8 @@ Ef þið nennið ekki að fara í gegnum KiCAD - Gerber2PNG ferlið þá eru .pn
 
 jpeg renders of milling files
 <div class="three-images">
-    <img src="../assets/img/qcHack/QC_Hack_Trace_JPEG.jpg" alt="Image 1" class="two-image-size">
-    <img src="../assets/img/qcHack/QC_Hack_Cut_JPEG.jpg" alt="Image 1" class="two-image-size">
+    <img src="../../assets/img/qcHack/QC_Hack_Trace_JPEG.jpg" alt="Image 1" class="two-image-size">
+    <img src="../../assets/img/qcHack/QC_Hack_Cut_JPEG.jpg" alt="Image 1" class="two-image-size">
 </div>
 
 [Download Trace .png file](../files/useful/QC_Hack_redesign_trace.png) 
