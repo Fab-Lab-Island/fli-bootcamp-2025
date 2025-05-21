@@ -10,4 +10,4 @@ Git commit = 1 coin
 Random Merge conflict = 2 coin
 
 
-
+![alt text](image.png)
