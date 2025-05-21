@@ -39,11 +39,23 @@ Dæmi um 20 Output hleðslutæki
 Dæmi um 12V Output hleðslutæki
 ///
 
-### KiCad project
+### KiCad project 1 (with screw terminal)
 
 Það er ekki mikil breyting á þessu endurhannaða bretti og upprunalega brettinu hans Nicolas. Eini munurinn er að allar tengingar eru á rásum og Screw Terminal-ið er minna. Þessi hönnun gæti samt verið hjálplegt ef þú ætlar að nýta QC-hack í verkefninu/brettinu þínu.
 
-[Download KiCad files](../files/useful/QC-Hack_reDesign.zip)
+[Download KiCad files (screw terminal)](../assets/files/qcHack/QC-Hack_reDesign.zip)
+
+### KiCad project 2 (with pins)
+
+Svo er önnur útgáfa af brettinu með pinnum sem hægt er að stinga í socket eða brauðbretti í staðinn fyrir screw terminal tengið.
+
+### QC-Hack með pinnum
+![QC-Hack með pinnum](../assets/img/qcHack/qcHackWithPins.jpg)
+/// caption
+QC-hack með pinnum
+///
+
+[Download KiCad files (with pins)](../assets/files/qcHack/QC_Hack_wPins.zip)
 
 ### Búa til Gerber skrár úr KiCAD
 
@@ -63,8 +75,8 @@ Ef þið nennið ekki að fara í gegnum KiCAD - Gerber2PNG ferlið þá eru .pn
 
 jpeg renders of milling files
 <div class="three-images">
-    <img src="../../images/useful/QC_Hack_Trace_JPEG.jpg" alt="Image 1" class="two-image-size">
-    <img src="../../images/useful/QC_Hack_Cut_JPEG.jpg" alt="Image 1" class="two-image-size">
+    <img src="../assets/img/qcHack/QC_Hack_Trace_JPEG.jpg" alt="Image 1" class="two-image-size">
+    <img src="../assets/img/qcHack/QC_Hack_Cut_JPEG.jpg" alt="Image 1" class="two-image-size">
 </div>
 
 [Download Trace .png file](../files/useful/QC_Hack_redesign_trace.png) 
@@ -79,7 +91,7 @@ jpeg renders of milling files
 
 Það eru nokkrar leiðir til að forrita ATtiny412 kubbinn sem verður ekki farið yfir hér.
 
-[Download QC-Hack code](../files/useful/qc.ino)
+[Download QC-Hack code](../assets/files/qcHack/qc.ino)
 
 Ef þú veist hvaða spennu þú þarft, ef þú þarft t.d. 12V spennu fyrir verkefnið þitt þá getur þú stillt það í kóðanum.
 Vertu viss um að lína 96 er ekki kommentuð út og TARGET_DCV er sett í 120 (12V)
@@ -105,6 +117,13 @@ This will override the potentiometer so in this case you don’t actually need t
 Með þessum breytingum getur þú stillt spennu með potentiometer á hvaða gildi sem er milli 3.6V - 12V (CLASSA), 3.6V - 20V (CLASSB). Það er gott að geta verið með breytilega spennu á meðan verið er að testa rafbúnaðinn og finna rétta spennu. Þegar búið er að finna rétta spennu gæti verið sniðugt að taka komment // af línu 96 og setja TARGET_DCV á gildið sem þú vilt, t.d. 140 ef þú vilt 14V, 18ö, fyrir 18V, o.frv.
 
 Ég mæli með því að byrja á því að nota bretti með potentiometer, kommenta út línu 96 //, og hafa línu 104 stillta á CLASSB á meðan prófun á sér stað. Svo þegar allt er komið á hreint myndi ég mæla með því að búa til nýtt bretti með engum potentiometer og stilla spennu í kóða.
+
+### QC-Hack samþætt í bretti
+![QC-Hack samþætt](../assets/img/qcHack/qcHackIntegrated.jpg)
+/// caption
+QC-hack samþætt í bretti
+///
+
 
 !!! note
     Vertu viss um að USB hleðslutækið styðji við 20V Output ef það er það sem þú þarft.
