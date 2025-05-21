@@ -1,6 +1,8 @@
 site_name: Fab Lab Ísland 
 site_description: Ár hvert hittist starfsfólk úr Fab Lab Íslands víðsvegar um allt land til að deila þekkingu og reynslu. 2025 verður haldið í Húsavík.
-# site_url: 
+repo_url: https://github.com/Fab-Lab-Island/fli-bootcamp-2025
+edit_uri: edit/main/docs/
+repo_name: "Github hlekkur"
 
 theme:
   name: material
@@ -18,6 +20,9 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.action.edit  
+    - content.action.view  
+
   palette:
     - scheme: default
       primary: blue grey
