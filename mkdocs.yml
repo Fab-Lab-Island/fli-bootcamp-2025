@@ -57,6 +57,7 @@ plugins:
 
   - table-reader
   - caption
+  - git-authors
 
 extra:
   analytics:
