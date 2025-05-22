@@ -8,6 +8,8 @@ Athugasemdir: Dagurinn hefst ávalt í FAB LAB Húsavík, Hafnarstétt 1-3, 640 
 Dagskrá hefst kl 9:00 nema annað sé tekið fram.
 
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAcbOqLwPlMsnmVpAHnx_H6152o-_fYM2HJTWTNYLoTO9t5PtoChUi461xgSawQVxvJeZDbHen6O9m/pubhtml?widget=true&amp;headers=false" width="100%" height="600"></iframe>
+
 
 ## Þriðjudagur 20. maí
 - **Ferðadagur**
@@ -32,10 +34,10 @@ Dagskrá hefst kl 9:00 nema annað sé tekið fram.
 - **11:00** – Mótagerð með Mayku Multiplier  
 - **12:00** – **Grillhádegi** á Stéttinni 2.500 kr.  
 - **13:00** – Tækniminigróðurhús/3D skönnun á Eddu
-- **14:00** – 3D skönnun á kú   
-- **15:00** – Úthressileikur og samhristingur 
-- **17:00** – Bjórsmökkun æa Húsavík Öl 3.000 kr.
-- **19:00** – Kvöldmatur Eldgrillaðar Pizzur
+- **15:00** – 3D skönnun á kú   
+- **16:00** – Úthressileikur og samhristingur 
+- **18:00** – Bjórsmökkun æa Húsavík Öl 3.000 kr.
+- **12:00** – Kvöldmatur Eldgrillaðar Pizzur
 
 ---
 
@@ -53,3 +55,4 @@ Dagskrá hefst kl 9:00 nema annað sé tekið fram.
 ## Laugardagur 24. maí
 - **12:00** – Kveðjubröns
 - **FERÐADAGUR**
+

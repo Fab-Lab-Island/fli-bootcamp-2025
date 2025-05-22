@@ -8,9 +8,9 @@ hide:
 # Bootcamp Húsavík 2025
 
 ![velkomin](assets/img/index/velkomin_comp.jpg){width=70%}
-
-> Stefán forstöðumaður fab Lab Húsavíkur býður ykkur velkomin! 
-
+///caption
+Stefán forstöðumaður fab Lab Húsavíkur býður ykkur velkomin! 
+///
 📍[Húsavík](https://maps.app.goo.gl/7h69oiuoJvUz5X8i9)
 
 [fablab.is](https://fablab.is/)
@@ -21,7 +21,7 @@ hide:
 
 ## Bootcamp fyrri ára
 
-📍 **[2024 – Selfoss](https://fab-lab-island.github.io/fli-bootcamp-2024/)**  )
+📍 **[2024 – Selfoss](https://fab-lab-island.github.io/fli-bootcamp-2024/)**
 📍 **[2023 – Neskaupstaður](https://fab-lab-island.github.io/fli-bootcamp-2023/)**  
 📍 **[2022 – Ísafjörður]()**<br>
 📍 **[2021 – Höfn í Hornafirði]()**<br>
