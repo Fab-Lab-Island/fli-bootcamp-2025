@@ -1297,11 +1297,11 @@
 <p>"The QuickCharge protocol lets you “negotiate” voltage through USB on smart power supplies."
 Lesið ítarlegt documentation eftir Nicolas til að vita meira um verkefnið</p>
 <h3 id="qc-hack-upprunalega-bretti">QC-Hack Upprunalega brettið</h3>
-<p><figure id="_figure-1"><img alt="QC-Hack original" src="../../assets/img/qcHack/QC_Hack_Board_original.jpg"><figcaption>Figure 1: QC-Hack original</figcaption></figure></p>
+<p><img alt="QC-Hack original" src="../../assets/img/qcHack/QC_Hack_Board_original.jpg"></p>
 <h2 id="qc-hack-endurhonnun">QC Hack - Endurhönnun</h2>
 <p>Ég ákvað að "endurhanna" brettið hans Nicolas í KiCAD, bæði til að æfa mig í KiCAD og til þess að gera brettið aðeins skýrara. Brettið hans Nicolas notar fill til að tengja Ground en mig langaði að tengja allt með rásum. Brettið hans Nicolas notaði líka 5mm Screw Terminal en við áttum bara til 3.5mm Screw Terminal. Ég breytti líka aðeins pinnanum sem forritar í gegnum UPDI.</p>
 <h3 id="qc-hack-endurhanna-bretti">QC-Hack Endurhannað bretti</h3>
-<p><figure id="_figure-2"><img alt="QC-Hack redesign" src="../../assets/img/qcHack/QC_Hack_Board.jpg"><figcaption>Figure 2: QC-Hack redesign</figcaption></figure></p>
+<p><img alt="QC-Hack redesign" src="../../assets/img/qcHack/QC_Hack_Board.jpg"></p>
 <p>Pælingin á bakvið verkefnið er einföd, nota QuickCharge USB-! hleðslutæki til að fá spennu á brettið og annaðhvort í kóða eða með potentiometer er hægt að breyta spennu frá 3.6V upp í 20V. Þetta er mjög sniðugt fyrir verkefni sem þurfa meira en 5V spennu.</p>
 <p>Það þarf að vanda valið á hleðslutæki. Verið viss um að Output í hleðslutækinu fari upp í 20V ef það er það sem verkefnið þitt þarf.</p>
 <p><a href="https://nedis.com/en-us/product/computer-and-mobile/power-supply/usb-chargers/550783985/wall-charger-65-w-gan-pd30-18w-pd30-20w-pd30-27w-pd30-36w-pd30-45w-pd30-60w-pd30-65w-qc30-quick-charge-feature-30-325-a-number-of-outputs-3-usb-a-2x-usb-c-automatic-voltage-selection-black">Example 20V output current charger</a></p>
@@ -1312,7 +1312,7 @@ Lesið ítarlegt documentation eftir Nicolas til að vita meira um verkefnið</p
 <h3 id="kicad-project-2-with-pins">KiCad project 2 (with pins)</h3>
 <p>Svo er önnur útgáfa af brettinu með pinnum sem hægt er að stinga í socket eða brauðbretti í staðinn fyrir screw terminal tengið.</p>
 <h3 id="qc-hack-me-pinnum">QC-Hack með pinnum</h3>
-<p><figure id="_figure-3"><img alt="QC-Hack með pinnum" src="../../assets/img/qcHack/qcHackWithPins.jpg" width="300"><figcaption>Figure 3: QC-Hack með pinnum</figcaption></figure></p>
+<p><img alt="QC-Hack með pinnum" src="../../assets/img/qcHack/qcHackWithPins.jpg" width="300"></p>
 <p><a href="../../assets/files/qcHack/QC_Hack_wPins.zip">Download KiCad files (with pins)</a></p>
 <h3 id="bua-til-gerber-skrar-ur-kicad">Búa til Gerber skrár úr KiCAD</h3>
 <p>Búa til Gerber skrár frá KiCAD. Í PCB Editor fara í File - Fabrication Outputs - Gerber Files (.gbr)</p>
@@ -1323,8 +1323,8 @@ Lesið ítarlegt documentation eftir Nicolas til að vita meira um verkefnið</p
 <p>Aftur undir Quick Setup, veljið Top Cut og passið að Drill layer sé sýnilegur (neðarlega á síðunni). Ýtið svo á Generate PNG takkann til að búa til .png cut skrá með borholum.</p>
 <p>Ef þið nennið ekki að fara í gegnum KiCAD - Gerber2PNG ferlið þá eru .png skrárnar hér.</p>
 <p>jpeg renders of milling files</p>
-<p><figure id="_figure-4"><img alt="QC-Hack trace" src="../../assets/img/qcHack/QC_Hack_Trace_JPEG.jpg" width="300"><figcaption>Figure 4: QC-Hack trace</figcaption></figure></p>
-<p><figure id="_figure-5"><img alt="QC-Hack trace" src="../../assets/img/qcHack/QC_Hack_Cut_JPEG.jpg" width="300"><figcaption>Figure 5: QC-Hack trace</figcaption></figure></p>
+<p><img alt="QC-Hack trace" src="../../assets/img/qcHack/QC_Hack_Trace_JPEG.jpg" width="300"></p>
+<p><img alt="QC-Hack trace" src="../../assets/img/qcHack/QC_Hack_Cut_JPEG.jpg" width="300"></p>
 <p><a href="../files/useful/QC_Hack_redesign_trace.png">Download Trace .png file</a> </p>
 <p><a href="../files/useful/QC_Hack_redesign_cut.png">Download Cut .png file</a> </p>
 <h3 id="bill-of-material-bom">Bill of Material - BOM</h3>
@@ -1435,14 +1435,14 @@ Vertu viss um að lína 96 er ekki kommentuð út og TARGET_DCV er sett í 120 (
 <p>Með þessum breytingum getur þú stillt spennu með potentiometer á hvaða gildi sem er milli 3.6V - 12V (CLASSA), 3.6V - 20V (CLASSB). Það er gott að geta verið með breytilega spennu á meðan verið er að testa rafbúnaðinn og finna rétta spennu. Þegar búið er að finna rétta spennu gæti verið sniðugt að taka komment // af línu 96 og setja TARGET_DCV á gildið sem þú vilt, t.d. 140 ef þú vilt 14V, 18ö, fyrir 18V, o.frv.</p>
 <p>Ég mæli með því að byrja á því að nota bretti með potentiometer, kommenta út línu 96 //, og hafa línu 104 stillta á CLASSB á meðan prófun á sér stað. Svo þegar allt er komið á hreint myndi ég mæla með því að búa til nýtt bretti með engum potentiometer og stilla spennu í kóða.</p>
 <h3 id="qc-hack-samtt-i-bretti">QC-Hack samþætt í bretti</h3>
-<p><figure id="_figure-6"><img alt="QC-Hack samþætt" src="../../assets/img/qcHack/qcHackIntegrated.jpg"><figcaption>Figure 6: QC-Hack samþætt</figcaption></figure></p>
+<p><img alt="QC-Hack samþætt" src="../../assets/img/qcHack/qcHackIntegrated.jpg"></p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>Vertu viss um að USB hleðslutækið styðji við 20V Output ef það er það sem þú þarft.</p>
 </div>
-<p><figure id="_figure-7"><img alt="12V USB charger" src="../../assets/img/qcHack/USB_12V_charger.jpg"><figcaption>Figure 7: 12V USB charger</figcaption></figure></p>
+<p><img alt="12V USB charger" src="../../assets/img/qcHack/USB_12V_charger.jpg"></p>
 <p>Þetta hleðslutæki styður t.d. bara við upp að 12V output.</p>
-<p></p><div class="video-container"><video style="position:relative;width:100%;height:22.172vw" controls alt="type:video"><source src="../../assets/videos/QC_multimeter.mp4" type="video/mp4"></source></video></div></div>
+<p><div class="video-container"><video style="position:relative;width:100%;height:22.172vw" controls alt="type:video"><source src="../../assets/videos/QC_multimeter.mp4" type="video/mp4"></source></video></div></p></div>
 
 
 
