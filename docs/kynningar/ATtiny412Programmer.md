@@ -44,3 +44,15 @@ Til þess að forrita ATtiny412 þá þarf að halda kubbnum þétt upp að fót
 ATtiny412 forritaður með breakout brettinu, Serial-UPDI millistykki og FTDI-USB snúru
 ///
 
+## UPDATE !!!
+
+### Millistykki innifalið
+
+Í þessari útgáfu er millistykkið innifalið í brettinu svo það þarf bara að tengja þetta bretti beint í FTDI snúruna.
+
+![ATtiny412 breakout with serial](../assets/img/ATtiny412BreakoutBoard/ATtiny412ProgrammerWithSerial.png)
+///caption
+ATtiny412 breakout brettið með serial pinnum
+///
+
+[Download Trace .svg file](../assets/files/ATtinyBreakoutProgrammer/ATtiny412UPDI_Serial_Programmer-F_Cu.svg) 
