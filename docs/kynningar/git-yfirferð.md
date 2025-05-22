@@ -1,43 +1,47 @@
-# Skjalfesting á Git
+# Yfirferð á Git og GitHub
 
-- Afhverju
-- hverning
-- Hvernar
+Það þarf ekki að vera flókið að bæta við efni á vefinn. Hér eru einfaldar leiðbeiningar fyrir til að setja efni inn án þess að kunna forritun.
 
-Farið yfir hvernig við setjum inn efni á þessari síðu.
+---
 
+## ✏️ Breyta beint á GitHub
 
-- Hvað er Git
-- Hvað er Github eða Gitlab og fleira
-- Að nota markdown
-  - Plance text rich text
-  - Þarf að nota markdown?
-- Sýnidæmi
-  - Mkdocs material
-- Umhverfi sem við getum notað
-  - Breyta á github.com
-    - ýta á ```.``` til að opna betra umhverfi til að breyta.
-  - Breyta í VS code
-  - Hægt að nota margt annað
-- Prófum að setja efni inn á síðnna
-  - Leiðrétta stafsetningarvillunar mínar.
-  - Breyta dagskrá
-  - Setja inn undirsíður fyrir verkefnavinnu
- 
-Það þarf ekkert að nota markdown venjulegur texti virkar alveg https://www.fabisa.is/
+1. Farðu á [vefsíðuna okkar á GitHub](https://github.com/Fab-Lab-Island/fli-bootcamp-2025)
+2. Veldu skrána sem þú vilt breyta undir `docs/`
+3. Smelltu á blýantinn (✏️ Edit this file)
+4. Gerðu breytingar í vefritlinum
+   1. Það er hægt að skifa venjulegan texta
+   2. Það er líka hægt að nota Markdown
+      1. Meira um það [hér]()
+5. Til að vista er ýtt á commit og skifuð stutt lýsing á því sem var gert.
 
-# en svo er líka hægt að nota markdown þá er þetta h1
-## h2
-### h3
-[svo er hægt að setja inn hlekk](https://www.fabisa.is/)
+>  Þetta er auðveldasta leiðin til að koma efni inn á síðuna.
 
-- hér er einhver punktur
-- og annar
-- og einn í viðbót
+---
 
-- [ ] hér eitthvað sem þarf að gera
-- [x] hér er eitthvað sem er búið að gera
+## 💡 Dæmi um skjöl sem hægt er að breyta
 
-- [ ] set eitthvað hér
+- `docs/verkefnavinna/` – verkefni
+- `docs/kynningar/` – kynningar eða glærur
+- `docs/dagskra.md` – dagskrá
+- `docs/README.md` – ef þú vilt bæta við yfirliti
 
-Set eitthvað meira inn
+---
+
+## 🔗 Fleiri upplýsingar
+
+Ef þú vilt læra meira eða nota Git á tölvunni þinni:
+- [Leiðbeiningar um Git fyrir byrjendur](https://guides.github.com/activities/hello-world/)
+
+---
+
+Ef eitthvað er óljóst eða vantar hjálp geta eftirfarandi aðilar aðstoðað
+
+- Doddi
+- Karítas
+- Anri
+- Árni
+- Flexi
+- Árni
+- Ólöf
+- Magnús
