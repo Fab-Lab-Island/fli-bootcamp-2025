@@ -1,4 +1,4 @@
-# Yfirferð á Git og GitHub
+# Yfirferð á Git og GitHub look at this
 
 Það þarf ekki að vera flókið að bæta við efni á vefinn. Hér eru einfaldar leiðbeiningar fyrir til að setja efni inn án þess að kunna forritun.
 
