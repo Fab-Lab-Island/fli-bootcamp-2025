@@ -7,6 +7,7 @@
 ## ✏️ Breyta beint á GitHub
 
 1. Farðu á [vefsíðuna okkar á GitHub](https://github.com/Fab-Lab-Island/fli-bootcamp-2025)
+   1. Ef þú ert ekki með aðgang þarf að búa hann til [hér eru upplýsingar um hvernig það er gert.]()
 2. Veldu skrána sem þú vilt breyta undir `docs/`
 3. Smelltu á blýantinn (✏️ Edit this file)
 4. Gerðu breytingar í vefritlinum
