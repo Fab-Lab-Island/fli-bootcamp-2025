@@ -17,12 +17,30 @@ Brettið er ofur einfalt. Það er einn 1uF capacitor, fótspor fyrir ATtiny412 
 ATtiny412 Breakout Bretti íhlutir
 ///
 
-## Forrita ATtiny412
+## Serial-UPDI 3-pin millistykki
 
-Til þess að forrita ATtiny412 þá þarf að halda kubbnum þétt upp að fótsporunum, (VCC og GND næst þéttinum), svo eru pinnunum þremur tengt í Serial-UPDI 3-pin millistykki
-
-![Serial-UPDI 3-pin millistykki](../assets/img/ATtiny412BreakoutBoard/412BreakoutBoardInkscape.jpeg)
+![Serial-UPDI 3-pin millistykki](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.png)
 ///caption
 Serial-UPDI 3-pin millistykki
 ///
- https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.png
+
+![Serial-UPDI 3-pin millistykki](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.jpg)
+///caption
+Serial-UPDI 3-pin millistykki
+///
+
+Hér er hægt að sækja skrárnar sem þarf til að fræsa út millistykkið
+
+[Download Trace .png file](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.traces.png) 
+
+[Download Cut .png file](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.interior.png) 
+
+## Forrita ATtiny412
+
+Til þess að forrita ATtiny412 þá þarf að halda kubbnum þétt upp að fótsporunum, (VCC og GND næst þéttinum), svo eru pinnunum þremur tengt í Serial-UPDI 3-pin millistykkið og millistykkið tengt til FTDI-USB snúru. Svo er ATtiny412 kubburinn forritaður í gegnum Arduino IDE.
+
+![Forrita ATtiny412](../assets/img/ATtiny412BreakoutBoard/Programming412WithBreakoutBoard.jpeg)
+///caption
+ATtiny412 forritaður með breakout brettinu, Serial-UPDI millistykki og FTDI-USB snúru
+///
+
