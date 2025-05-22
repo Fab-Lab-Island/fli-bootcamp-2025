@@ -57,7 +57,7 @@ ATtiny412 breakout brettið með serial pinnum
 
 [Download Trace .svg file](../assets/files/ATtinyBreakoutProgrammer/ATtiny412UPDI_Serial_Programmer-F_Cu.svg) 
 
-![ATtiny412 breakout with serial](../assets/img/ATtiny412BreakoutBoard/412BreakoutBoard.jpeg)
+![ATtiny412 breakout with serial](../assets/img/ATtiny412BreakoutBoard/ATtiny412ProgrammerBoard)
 ///caption
 ATtiny412 breakout brettið með serial pinnum sem hægt er að tengja beint í FTDI snúru
 ///
