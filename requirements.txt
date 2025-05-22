@@ -17,4 +17,4 @@ mkdocs-git-authors-plugin ~= 0.9.2
 # Required by mkdocs-material for image processing and PDF exports (optional)
 pillow
 cairosvg
-mkdocs-caption
+# mkdocs-caption
