@@ -27,12 +27,6 @@ Engin sérstök uppsetning – bara beinn texti.
 ### Fyrirsögn 3
 ```
 
-# Fyrirsögn 1
-
-## Fyrirsögn 2
-
-### Fyrirsögn 3
-
 ### **Punktalistar**
 
 ```markdown
