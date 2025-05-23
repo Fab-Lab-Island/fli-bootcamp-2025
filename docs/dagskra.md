@@ -53,7 +53,8 @@ Dagskrá hefst kl 9:00 nema annað sé tekið fram.
 - **11:00** – Github skrásetning  
 - **12:00** – **Hádegismatur** í Golfskálanum 2.690 kr.  
 - **13:00** – Kynningarmyndbandagerð/Fabkastið
-- **17:00** – Sjóböðingera­sigfinnar­yfir árshátíð  
+- **17:00** – Sjóböðingera­sigfinnar­yfir árshátíð 
+- **19:00** - Kvöldatur á Stéttinni sem verður pulled pork og kjúklina taco. 
 - **20:00–23:00** – **ÁRSHÁTÍÐ** – Stemning / eldur / Hljóðfæri / Snakk / Dans
 
 ## Varðandi Árshátíðina er Stefán Pétur með spurningu...
