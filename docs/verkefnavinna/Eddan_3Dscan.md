@@ -7,6 +7,8 @@ Við erum búin að prufa að nota Revopoint frá Fab Lab Selfoss og þau komu e
   myndir af skönnun frá Magnúsi
 En þegar það var sett í prentunarformat kom í ljós að það sem við héldum að væru göt í skönnun voru eingöngu skuggar í ljósmyndaformatinu.
   mynd frá revo forriti
+  
+  ![edda](myndir/edda1_forrit.png)
 
   En svo prufuðum við að nota app sem heitir... frá Fab Lab Austurland og er það myndaapp sem er sett upp í snjalltæki.
     myndir af því
