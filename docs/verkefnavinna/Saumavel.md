@@ -9,6 +9,6 @@ Sarah and Alissa tried and failed mission, preparing inkspace file for seeing te
 
 Pictures are following.
 
-![embroidery](../
+![embroidery](../docs/myndir/IMG_6317.HEIC)
 
 
