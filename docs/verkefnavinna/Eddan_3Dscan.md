@@ -8,7 +8,7 @@ Hvernig er hægt að skanna hlut sem á að hafa fullt af götum?
 Við erum búin að prufa að nota Revopoint frá Fab Lab Selfoss og þau komu einnig með ljósabúnað til að hjálpa til, fyrri hlutinn tókst vel í skönnum og tækið las það vel.
 
 Hér er hlekkur á skannan sem við notuðum
-https://www.revopoint3d.com/pages/all-in-one-3d-scanner-miracoplus
+![link](https://www.revopoint3d.com/pages/all-in-one-3d-scanner-miracoplus)
 
 
   ![edda](myndir/edda600_crop.jpg)
@@ -17,7 +17,7 @@ En þegar það var sett í prentunarformat kom í ljós að það sem við hél
 
 Hér er hlekkur á forritið sem við notuðum 
 
-https://www.revopoint3d.com/pages/support-download?srsltid=AfmBOor7oZN-WOEwGp5Ti3WRNTO4v_bBXjjeiurKYbuAd1tIIGRgZd2o
+![link](https://www.revopoint3d.com/pages/support-download?srsltid=AfmBOor7oZN-WOEwGp5Ti3WRNTO4v_bBXjjeiurKYbuAd1tIIGRgZd2o)
 
   ![edda](myndir/edda1_forrit.png)
 
