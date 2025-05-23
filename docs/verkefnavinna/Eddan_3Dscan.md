@@ -7,14 +7,14 @@ Hvernig er hægt að skanna hlut sem á að hafa fullt af götum?
 Þetta er eitthvað sem við ætlum að reyna að leysa.
 Við erum búin að prufa að nota Revopoint frá Fab Lab Selfoss og þau komu einnig með ljósabúnað til að hjálpa til, fyrri hlutinn tókst vel í skönnum og tækið las það vel.
 
-[Hér er hlekkur á skannan sem við notuðum fyrir skannann](https://www.revopoint3d.com/pages/all-in-one-3d-scanner-miracoplus)
+[Hér er hlekkur á skannan](https://www.revopoint3d.com/pages/all-in-one-3d-scanner-miracoplus)
 
 
   ![edda](myndir/edda600_crop.jpg)
 
 En þegar það var sett í prentunarformat kom í ljós að það sem við héldum að væru göt í skönnun voru eingöngu skuggar í ljósmyndaformatinu.
 
-[Hér er hlekkur á forritið sem við notuðum fyrir forritið](https://www.revopoint3d.com/pages/support-download?srsltid=AfmBOor7oZN-WOEwGp5Ti3WRNTO4v_bBXjjeiurKYbuAd1tIIGRgZd2o)
+[Hér er hlekkur á forritið](https://www.revopoint3d.com/pages/support-download?srsltid=AfmBOor7oZN-WOEwGp5Ti3WRNTO4v_bBXjjeiurKYbuAd1tIIGRgZd2o)
 
   ![edda](myndir/edda1_forrit.png)
 
