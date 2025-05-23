@@ -1,5 +1,5 @@
 # Saumavél
-# English
+## English
 Ólöf experimented with her fabacademy project with the embdoidery machine and learned about inkstitch. She prepared a Logo which was stitched 3 times with 3 different settings regarding outline, pattern fill and colour swatches.
 
 Sarah and Alissa tried and failed mission, preparing inkspace file for seeing text in inkstitch. Troubleshoot on written Name in Inkspace when simulating the graphic and text, onlz the logo graphic was visible for stitching simulation/preview.
