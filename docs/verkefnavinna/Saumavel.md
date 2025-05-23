@@ -9,7 +9,9 @@ Sarah and Alissa tried and failed mission, preparing inkspace file for seeing te
 
 Pictures are following.
 
-![embroidery](../docs/myndir/IMG_6317.jpeg)
+![embroidery](../docs/assets/img
+/saumavel/IMG_6317.jpeg)
+
 
 
 
