@@ -56,6 +56,10 @@ Dagskrá hefst kl 9:00 nema annað sé tekið fram.
 - **17:00** – Sjóböðingera­sigfinnar­yfir árshátíð  
 - **20:00–23:00** – **ÁRSHÁTÍÐ** – Stemning / eldur / Hljóðfæri / Snakk / Dans
 
+## Varðandi Árshátíðina er Stefán Pétur með spurningu...
+Viljiði koma með ykkar drykki eða á ég að kaupa þá?
+Ef ég á að kaupa þá, þá væri gott ef þið gætuð skrifað hér fyrir neðan hvað þið viljið:
+
 ---
 
 ## Laugardagur 24. maí
