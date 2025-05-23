@@ -2,13 +2,13 @@
 
 ## Samsetning og uppsetning
 
-https://www.seeedstudio.com/ePaper-Breakout-Board-p-5804.html?srsltid=AfmBOooWFwOP91tbiupUyrSihRJH6IivIsEKYREK-0oHQdlyqL3ighMd
+[ePaper breakout board](https://www.seeedstudio.com/ePaper-Breakout-Board-p-5804.html?srsltid=AfmBOooWFwOP91tbiupUyrSihRJH6IivIsEKYREK-0oHQdlyqL3ighMd)
 
-https://www.seeedstudio.com/2-9-Quadruple-Color-ePaper-Display-with-128x296-Pixels-p-5783.html
+[4 lita ePaper](https://www.seeedstudio.com/2-9-Quadruple-Color-ePaper-Display-with-128x296-Pixels-p-5783.html)
 
-https://www.hackster.io/etolocka/how-to-use-a-4-color-epaper-with-gxepd2-and-xiao-0e95a2
+[Leiðbeiningar fyrir GxEPD2](https://www.hackster.io/etolocka/how-to-use-a-4-color-epaper-with-gxepd2-and-xiao-0e95a2)
 
-Setja upp: GxEPD2 í Arduino IDE
+[Seeed Arduino LCD libary](https://github.com/Seeed-Studio/Seeed_Arduino_LCD)
 
 ## Prufukóðar
 
