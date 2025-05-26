@@ -9,15 +9,8 @@ hide:
 
 ![velkomin](assets/img/index/velkomin_comp.jpg){width=70%}
 ///caption
-Stefán forstöðumaður fab Lab Húsavíkur býður ykkur velkomin! 
+Stefán forstöðumaður fab Lab Húsavíkur býður ykkur velkomin!
 ///
-📍[Húsavík](https://maps.app.goo.gl/7h69oiuoJvUz5X8i9)
-
-[fablab.is](https://fablab.is/)
-
-![alt text](assets/img/index/intro_compressed.jpg)
-![alt text](assets/img/index/matur_compressed.jpg)
-![alt text](assets/img/index/qc_compressed.jpg)
 
 ## Bootcamp fyrri ára
 
@@ -32,3 +25,5 @@ Stefán forstöðumaður fab Lab Húsavíkur býður ykkur velkomin!
 ## Um Bootcamp
 
 Árlega hittast allar Fab Lab smiðjur á Íslandi til að efla samstarf, miðla þekkingu og þróa nýjar hugmyndir. Við köllum það **Bootcamp**
+
+[fablab.is](https://fablab.is/)

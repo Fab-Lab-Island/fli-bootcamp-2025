@@ -6,15 +6,12 @@ hide:
 
 # Dagskrá
 
-!!! info
-    ATH daskráin er en í vinnslu og getur breyst
-
 Athugasemdir: Dagurinn hefst ávalt í FAB LAB Húsavík, Hafnarstétt 1-3, 640 Húsavík.
 
 Dagskrá hefst kl 9:00 nema annað sé tekið fram.
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAcbOqLwPlMsnmVpAHnx_H6152o-_fYM2HJTWTNYLoTO9t5PtoChUi461xgSawQVxvJeZDbHen6O9m/pubhtml?widget=true&amp;headers=false" width="100%" height="600"></iframe>
+<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAcbOqLwPlMsnmVpAHnx_H6152o-_fYM2HJTWTNYLoTO9t5PtoChUi461xgSawQVxvJeZDbHen6O9m/pubhtml?widget=true&amp;headers=false" width="100%" height="600"></iframe> -->
 
 
 ## Þriðjudagur 20. maí
@@ -25,11 +22,12 @@ Dagskrá hefst kl 9:00 nema annað sé tekið fram.
 ## Miðvikudagur 21. maí
 - **8:00** – MÆTING KL 09:00
 - **9:00** – Velkomin kynning / Github skrásetning 
-- **10:00** – (Nánast) hvaða spenna sem er með QC hack  - andri
+- **10:00** – (Nánast) hvaða spenna sem er með QC hack  - Andri
 - **12:00** – **Hádegismatur** á Bauknum sirka 3.500 kr.  
 - **13:00** – X Tool  
 - **15:00** – N. Hansen- Metal Fuse
-- **16:00** – Málmfræsing/Tækniminigróðurhús  
+- **16:00** – Málmfræsing/Tækniminigróðurhús 
+- **18:00** - Sund
 - **20:00** – Kvöldmatur á Sölku 4.000 kr. 
 
 ---
@@ -43,7 +41,7 @@ Dagskrá hefst kl 9:00 nema annað sé tekið fram.
 - **15:00** – 3D skönnun á kú   
 - **16:00** – Úthressileikur og samhristingur 
 - **18:00** – Bjórsmökkun æa Húsavík Öl 3.000 kr.
-- **12:00** – Kvöldmatur Eldgrillaðar Pizzur
+- **20:00** – Kvöldmatur Eldgrillaðar Pizzur
 
 ---
 
@@ -53,9 +51,9 @@ Dagskrá hefst kl 9:00 nema annað sé tekið fram.
 - **11:00** – Github skrásetning  
 - **12:00** – **Hádegismatur** í Golfskálanum 2.690 kr.  
 - **13:00** – Kynningarmyndbandagerð/Fabkastið
-- **17:00** – Sjóböðingera­sigfinnar­yfir árshátíð 
+- **17:00** – Sjóböðin 
 - **19:00** - Kvöldatur á Stéttinni sem verður pulled pork og kjúklina taco. 
-- **20:00–23:00** – **ÁRSHÁTÍÐ** – Stemning / eldur / Hljóðfæri / Snakk / Dans
+- **20:00** – **ÁRSHÁTÍÐ** – Stemning / eldur / Hljóðfæri / Snakk / Dans
 
 ---
 
