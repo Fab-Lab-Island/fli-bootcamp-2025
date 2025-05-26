@@ -1,8 +1,6 @@
 # Saumavél
 
 
-
-
 ## English
 
 Ólöf experimented with her fabacademy project with the embdoidery machine and learned about inkstitch. She prepared a Logo which was stitched 3 times with 3 different settings regarding outline, pattern fill and colour swatches. Here are directions on how to prepare a file for embroidering.
@@ -13,16 +11,72 @@
     
     Fab Lab Húsavík has a Brother 6-needle embroidery machine. Here is the [brochure](https://download.brother.com/welcome/doch102285/884t23_om01en.pdf) for the Brother 6-needle embroidery machine. 
 
+!!! tip "A drop of oil before each use"
+    
+     It is important to put a drop of oil onto the hook before inserting the bobbin case. This has to be done each day that the machine will be used.
+
+![ ](saumavel/W17_OilOnHook.jpg)
+
 !!! info "Download and instructions"
     
     The Inkstitch extension can be downloaded from [here](https://inkstitch.org/docs/install/). 
     
     [Here](https://www.brother-usa.com/products/pr680w?srsltid=AfmBOooVz6D1Qg1xH7Wp5b3vJmmYAfjZst4mKufn2EUSffsu4XYdvi7v) you can find instructions on how to use the machine.
 
-!!! info "Creating a file for the embroidery machine"
+!!! info "Creating a image for the embroidery machine"
     
-     To begin with you open the Inkscape program...
-     ... **Object** and then **Fill and stroke**. There you turn **Fill** on and turn of **Stroke paint**. Then you save the file as an .svg file so that you can edit it later on if you want to.
+     To begin with you open the Inkscape program. Then you can follow the directions [here](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) in a book by Hafey Hallgrímsdóttir on how to create a sticker but when you have clicked on **Object** and then **Fill and stroke** you turn **Fill** off and turn on **Stroke paint**. Note! Instead of setting the stroke style to 0.02 you make the line thicker, f.ex. 1.0. Then you can either choose a colour for the image there or later, in the embroidery machine.
+
+ ![ ](saumavel/Bootcamp_saumavél_FillAndStroke.jpg)  
+
+
+!!! info "Saving as a .pes file"
+    
+    The next step is to save the file as a **.pes file**. You can choose any colour for the fill in the file and then you can change the colours when adjusting settings in the embroidery machine. 
+    
+![ ](saumavel/Bootcamp_saumavél_SaveAsPes.jpg)
+
+!!! info "A .pes file generates the sewing path"
+    
+    In the image below you can see how the .pes file has generated a path for the embroidery machine. You can see how the thread will be laid down.
+
+![ ](saumavel/Bootcamp_saumavél_LineConverted.jpg)
+
+!!! info "Fastening the material"
+    
+    In this project a reusable bag was used. The material was fastened in an embroidery frame. The inner frame frame was placed inside the reusable bag and on top of it, also inside the bag, a  stabilizing backing was placed. It is important to make sure that the stabilizing backing is a bit bigger than the frame so that it can fit between the inner frame and the outer frame. After adjusting the placement of the inner frame + the stabilizing backing, the outer frame is placed on top of the reusable bag and pressed down until the frames fit together. Then the screw is tightened to keep the material in place.
+
+![ ](saumavel/Week17_EmbroideryFrameAndStabilizer.jpg)
+
+![ ](saumavel/Week17_Frame1000x750.jpg)
+
+
+!!! tip "Arranging the layers"
+    
+    You can control which layer is stitched first and which layers follow. The machine always begins with the layer at the bottom on the list of layers in Inkscape and then follows the layers upwards. This means that you can arrange the layers if the order of the layers matters. Just drag the layers to arrange them to your preferred setup.
+
+!!! info "Offsetting"
+    
+     When I started to document this, I could not remember how to group the letters in the right way to be able to use a function called **Dynamic offset**. I found an answer by Lazur to a question in the [Inkscape forum](https://alpha.inkscape.org/vectors/www.inkscapeforum.com/viewtopic93da.html?t=15368). It is second in line from the top.
+
+     Lazur says that you can use shortcuts. First you can use **Object to path** on a text to turn it into a group of paths. Then you do the following:
+
+     - Press **Shift+Ctrl+C** to convert text to path
+
+     - Press ** Shift+Ctrl+G** to group
+
+     - Press ** Ctrl+K** to combine paths
+
+     Can you see the tiny, blue diamond handle at the top of the bounding box in the image below? You can now grab it and resize (offset) the whole design.
+
+
+!!! tip "Shortcuts in Inkscape"
+    
+     [Here](https://inkscape.org/doc/keys091.html) you can find a list of all shortcuts in Inkscape.
+
+!!! info "Aligning fill and outline"
+    
+     The outline forms grouped the outline forms together by pressing **Shift+Ctrl+G**. Then I left-clicked on my mouse and dragged over both designs to select all. Then I clicked on **Object** and then **Align and distribute**.
 
 
 
