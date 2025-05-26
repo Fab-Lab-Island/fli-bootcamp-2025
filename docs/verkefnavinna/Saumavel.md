@@ -25,10 +25,16 @@
 
 !!! info "Creating a image for the embroidery machine"
     
-     To begin with you open the Inkscape program. Then you can follow the directions [here](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) in a book by Hafey Hallgrímsdóttir on how to create a sticker but when you have clicked on **Object** and then **Fill and stroke** you turn **Fill** off and turn on **Stroke paint**. Note! Instead of setting the stroke style to 0.02 you make the line thicker, f.ex. 1.0. Then you can either choose a colour for the image there or later, in the embroidery machine.
+     To begin with you open the Inkscape program. Then you can follow the directions [here](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) in a book by Hafey Hallgrímsdóttir on how to create a sticker but when you have clicked on **Object** and then **Fill and stroke**, turned **Fill** off and turned on **Stroke paint**....then: Note! Instead of setting the stroke style to 0.02 you make the line thicker, f.ex. 1.0. Then you can either choose a colour for the image there or later, in the embroidery machine.
 
  ![ ](saumavel/Bootcamp_saumavél_FillAndStroke.jpg)  
 
+
+!!! info "Converting line to satin"
+    
+     The next step is to click on **Extensions**, **Ink/Stitch**, **Tools: satin** and then **Convert line to satin**.
+
+![ ](saumavel/Bootcamp_saumavél_ConvertLineToSatin.jpg)
 
 !!! info "Saving as a .pes file"
     
