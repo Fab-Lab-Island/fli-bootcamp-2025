@@ -29,7 +29,7 @@
 
      I used a pen drawing that I made but you can also use images from the internet.
      
-     Next you have clicked on **Object** and then **Fill and stroke**, turned **Fill** on and turned off **Stroke paint**.
+     Next you click on **Object** and then **Fill and stroke**, turn **Fill** on and turn off **Stroke paint**.
      
      You can either choose a colour for the image there or later, in the embroidery machine.
 
@@ -38,7 +38,7 @@
 ![ ](saumavel/Bootcamp_Saumavél_ResizeToContent.jpg)
 
 
-!!! info inline end "Resizing to content"
+!!! info "Resizing to content"
     
      Now you can see that the page fits around your design.
 
@@ -47,7 +47,7 @@
 
 !!! info "Looking into params"
     
-    If you click on **Extensions**, **Ink/Stitch**, **Params** you can look into the settings for embroidering.
+    If you click on **Extensions**, **Ink/Stitch**, **Params** you can look into the settings for the embroidery.
 
 ![ ](saumavel/Bootcamp_s_Params.jpg)
 
@@ -63,12 +63,7 @@
     
     In the image below you can see how the .pes file has generated a path for the embroidery machine. You can see how the thread will be laid down.
 
-
-!!! info inline end "Resizing to content"
-    
-     Now
-
-![ ](saumavel/Bootcamp_s_ParamsSettings.jpg)
+![ ](saumavel/Bootcamp_s_PesFileFill.jpg)
 
 
 ### Image with only lines
@@ -119,12 +114,13 @@
 
      - Press **Shift+Ctrl+C** to convert text to path
 
-     - Press ** Shift+Ctrl+G** to group
+     - Press **Shift+Ctrl+G** to group
 
-     - Press ** Ctrl+K** to combine paths
+     - Press **Ctrl+K** to combine paths
 
      Can you see the tiny, blue diamond handle at the top of the bounding box in the image below? You can now grab it and resize (offset) the whole design.
 
+![ ](saumavel/W17_DynamicOffset700x400.jpg)
 
 !!! tip "Shortcuts in Inkscape"
     
@@ -134,7 +130,23 @@
     
      The outline forms grouped the outline forms together by pressing **Shift+Ctrl+G**. Then I left-clicked on my mouse and dragged over both designs to select all. Then I clicked on **Object** and then **Align and distribute**.
 
+![ ](saumavel/W17_AlignAndDistribute.jpg)
 
+!!! info "Aligning done"
+    
+     Then you click on the symbols for aligning on the x-axis and the y-axis. Then the two forms will be aligned.
+
+![ ](saumavel/W17_Aligned.jpg)
+
+!!! info "Embroidery ready"
+    
+     This is what the fill and outline looks like after embroidering. The thickness of the line in a design like this can be adjusted.
+
+![ ](saumavel/Week17_FillAndOutlineReady800x584.jpg)
+
+
+
+### Experimenting
 
 Sarah and Alissa tried and failed mission, preparing inkspace file for seeing text in inkstitch. Troubleshoot on written Name in Inkspace when simulating the graphic and text, onlz the logo graphic was visible for stitching simulation/preview.
 
@@ -145,7 +157,4 @@ Pictures are following.
 ![saumavel](../docs/assets/img/saumavel/IMG_6317.jpeg)
 
 
-
-
-
-
+![saumavel](../assets/img/IMG_6317.jpeg)
