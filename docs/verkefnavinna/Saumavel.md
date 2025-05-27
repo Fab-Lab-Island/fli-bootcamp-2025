@@ -25,7 +25,57 @@
 
 !!! info "Creating a image for the embroidery machine"
     
-     To begin with you open the Inkscape program. Then you can follow the directions [here](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) in a book by Hafey Hallgrímsdóttir on how to create a sticker but when you have clicked on **Object** and then **Fill and stroke**, turned **Fill** off and turned on **Stroke paint**....then: Note! Instead of setting the stroke style to 0.02 you make the line thicker, f.ex. 1.0. Then you can either choose a colour for the image there or later, in the embroidery machine.
+     To begin with you open the Inkscape program. Then you can follow the directions [here](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) in a book by Hafey Hallgrímsdóttir on how to create a sticker (the first project in the book). You follow all steps until you have converted an image to a vector drawing. 
+
+     I used a pen drawing that I made but you can also use images from the internet.
+     
+     Next you have clicked on **Object** and then **Fill and stroke**, turned **Fill** on and turned off **Stroke paint**.
+     
+     You can either choose a colour for the image there or later, in the embroidery machine.
+
+     Click on **File** and **Document properties**. Then you can see a small button for resizing the page to content.
+
+![ ](saumavel/Bootcamp_Saumavél_ResizeToContent.jpg)
+
+
+!!! info inline end "Resizing to content"
+    
+     Now you can see that the page fits around your design.
+
+![ ](saumavel/Bootcamp_saumavél_AfterResizingToContent.jpg)
+
+
+!!! info "Looking into params"
+    
+    If you click on **Extensions**, **Ink/Stitch**, **Params** you can look into the settings for embroidering.
+
+![ ](saumavel/Bootcamp_s_Params.jpg)
+
+!!! info "Settings and preview params"
+    
+    In params you can see a preview of the path that will be embroidered. You can also adjust settings.
+
+![ ](saumavel/Bootcamp_s_ParamsSettings.jpg)
+
+
+
+!!! info "A .pes file generates the sewing path"
+    
+    In the image below you can see how the .pes file has generated a path for the embroidery machine. You can see how the thread will be laid down.
+
+
+!!! info inline end "Resizing to content"
+    
+     Now
+
+![ ](saumavel/Bootcamp_s_ParamsSettings.jpg)
+
+
+### Image with only lines
+
+!!! info "Creating a image for the embroidery machine"
+    
+     If you want to design an image where you are only using lines, you can follow the directions [here](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) in the book by Hafey Hallgrímsdóttir on how to create a sticker but when you have clicked on **Object** and then **Fill and stroke**, turned **Fill** off and turned on **Stroke paint**....then instead of setting the stroke style to 0.02 you make the line thicker, f.ex. 1.0. Then you can either choose a colour for the image there or later, in the embroidery machine.
 
  ![ ](saumavel/Bootcamp_saumavél_FillAndStroke.jpg)  
 
