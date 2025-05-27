@@ -5,6 +5,8 @@
 
 ## Brother 6-nála útsaumsvél
 
+### Bæklingur og leiðbeiningar
+
 !!! info "Bæklingur fyrir Brother 6-nála útsaumsvél"
     
     Fab Lab Húsavík á Brother 6-6-nála útsaumsvél. Hér er [bæklingur](https://download.brother.com/welcome/doch102285/884t23_om01en.pdf) fyrir Brother 6-6-nála útsaumsvélina. 
@@ -20,6 +22,8 @@
     Hægt er að sækja Inkstitch extension [hér](https://inkstitch.org/docs/install/). 
     
     [Hér](https://www.brother-usa.com/products/pr680w?srsltid=AfmBOooVz6D1Qg1xH7Wp5b3vJmmYAfjZst4mKufn2EUSffsu4XYdvi7v) má finna fleiri upplýsingar og leiðbeiningar um vélina.
+
+### Að útbúa mynd fyrir saumavélina
 
 !!! info "Að útbúa mynd fyrir saumavélina"
     
@@ -63,7 +67,7 @@
 ![ ](saumavel/Bootcamp_s_PesFileFill.jpg)
 
 
-### Unnið með línur
+### Að búa til útlínumynd
 
 !!! info "Að búa til útlínumynd fyrir útsaumsvélina"
     
@@ -90,6 +94,8 @@
 
 ![ ](saumavel/Bootcamp_saumavél_LineConverted.jpg)
 
+### Að festa efnið á ramma
+
 !!! info "Að festa efnið"
     
     Margnota taupoki var notaður í þetta verkefni. Efnið var fest í sérstakan útsaumsramma. Innri hluti útsaumsrammans var lagður innan í taupokann. Svo var bútur af stuðningsefni lagður ofan á rammann, semsagt einnig inni í pokanum. Það er mikilvægt að búturinn af stuðningsefninu sé nógu stór til að geta fallið á milli innri rammans og ytri rammans. Eftir að búið er að stilla af staðsetninguna á innri rammanum+stuðningsefninu er ytri ramminn lagður ofan á efnið og honum þrýst niður þannig að hann falli utan um innri rammann sem er hinum megin við efnið. Svo er skrúfan hert til að halda efninu á sínum stað. Þess er gætt að efnið sé nógu vel strekkt til að hægt sé að banka létt á efnið eins og trommu.
@@ -102,6 +108,8 @@
 !!! tip "Röðun á lögum ræður röðun á útsaumi"
     
     Þegar unnið er með fleiri en einn litaflöt og línur í Inkscape verða til nokkur lög (e. layers) í Inkscape. Það er hægt að stýra því á hvaða litafleti vélin byrjar. Vélin byrjar ávallt á því lagi sem er neðst á listanum í Inkscape og fylgir svo lögunum uppávið. Þetta þýðir að þú getur breytt röðun laganna ef það skiptir máli í hvaða röð saumað er. Dragðu bara lögin til þar til röðunin er eins og óskað er eftir.
+
+### Að nota Offset
 
 !!! info "Að nota Offset"
     
@@ -119,9 +127,13 @@
 
 ![ ](saumavel/W17_DynamicOffset700x400.jpg)
 
+### Flýtileiðir í Inkscape
+
 !!! tip "Flýtileiðir í Inkscape"
     
      [Hér](https://inkscape.org/doc/keys091.html) er að finna lista yfir allar flýtileiðir í Inkscape.
+
+### Að jafna og dreifa
 
 !!! info "Að jafna og dreifa"
     
@@ -135,6 +147,8 @@
 
 ![ ](saumavel/W17_Aligned.jpg)
 
+### Útsaumur tilbúinn
+
 !!! info "Útsaumur tilbúinn"
     
      Svona leit verkefnið út eftir að vélin saumaði það út. Athugið að það er hægt að nota misþykkar útlínur í svona verkefnum, allt eftir smekk hvers og eins.
@@ -147,6 +161,8 @@
 Ólöf experimented with her fabacademy project with the embdoidery machine and learned about inkstitch. She prepared a Logo which was stitched 3 times with 3 different settings regarding outline, pattern fill and colour swatches. Here are directions on how to prepare a file for embroidering.
 
 ## Brother 6-needle embroidery machine
+
+### Brochure, directions and download
 
 !!! info "Brochure for Brother 6-needle embroidery machine"
     
@@ -163,6 +179,8 @@
     The Inkstitch extension can be downloaded from [here](https://inkstitch.org/docs/install/). 
     
     [Here](https://www.brother-usa.com/products/pr680w?srsltid=AfmBOooVz6D1Qg1xH7Wp5b3vJmmYAfjZst4mKufn2EUSffsu4XYdvi7v) you can find instructions on how to use the machine.
+
+### A design created for the embroidery machine
 
 !!! info "Creating a image for the embroidery machine"
     
@@ -185,6 +203,7 @@
 
 ![ ](saumavel/Bootcamp_saumavél_AfterResizingToContent.jpg)
 
+### Params
 
 !!! info "Looking into params"
     
@@ -198,6 +217,7 @@
 
 ![ ](saumavel/Bootcamp_s_ParamsSettings.jpg)
 
+### Saving as a .pes file
 
 !!! info "A .pes file generates the sewing path"
     
@@ -233,6 +253,8 @@
 
 ![ ](saumavel/Bootcamp_saumavél_LineConverted.jpg)
 
+### Fastening material
+
 !!! info "Fastening the material"
     
     In this project a reusable bag was used. The material was fastened in an embroidery frame. The inner frame frame was placed inside the reusable bag and on top of it, also inside the bag, a  stabilizing backing was placed. It is important to make sure that the stabilizing backing is a bit bigger than the frame so that it can fit between the inner frame and the outer frame. After adjusting the placement of the inner frame + the stabilizing backing, the outer frame is placed on top of the reusable bag and pressed down until the frames fit together. Then the screw is tightened to keep the material in place.
@@ -241,10 +263,13 @@
 
 ![ ](saumavel/Week17_Frame1000x750.jpg)
 
+### Arranging layers to control workflow
 
 !!! tip "Arranging the layers"
     
     You can control which layer is stitched first and which layers follow. The machine always begins with the layer at the bottom on the list of layers in Inkscape and then follows the layers upwards. This means that you can arrange the layers if the order of the layers matters. Just drag the layers to arrange them to your preferred setup.
+
+### Using Offset
 
 !!! info "Offsetting"
     
@@ -262,9 +287,13 @@
 
 ![ ](saumavel/W17_DynamicOffset700x400.jpg)
 
+### Shortcuts in Inkscape
+
 !!! tip "Shortcuts in Inkscape"
     
      [Here](https://inkscape.org/doc/keys091.html) you can find a list of all shortcuts in Inkscape.
+
+### Aligning
 
 !!! info "Aligning fill and outline"
     
@@ -278,12 +307,13 @@
 
 ![ ](saumavel/W17_Aligned.jpg)
 
+### Embroidery ready
+
 !!! info "Embroidery ready"
     
      This is what the fill and outline looks like after embroidering. The thickness of the line in a design like this can be adjusted.
 
 ![ ](saumavel/Week17_FillAndOutlineReady800x584.jpg)
-
 
 
 ### Experimenting
