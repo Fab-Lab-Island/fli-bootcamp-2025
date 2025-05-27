@@ -11,7 +11,7 @@
 
 !!! tip "Dropi af olíu áður en unnið er með vélina"
     
-     Það er mikilvægt að setja dropa af olíu á krókinn áður en neðri tvinninn er settur í.
+     Það er mikilvægt að setja dropa af olíu á krókinn áður en neðri tvinninn er settur í. Þetta borgar sig að gera einu sinni á dag þá daga sem á að vinna með vélina, þ.e. áður en verkið hefst.
 
 ![ ](saumavel/W17_OilOnHook.jpg)
 
@@ -210,7 +210,7 @@
 
 !!! info "Creating a image for the embroidery machine"
     
-     If you want to design an image where you are only using lines, you can follow the directions [here](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) in the book by Hafey Hallgrímsdóttir on how to create a sticker but when you have clicked on **Object** and then **Fill and stroke**, turned **Fill** off and turned on **Stroke paint**....then instead of setting the stroke style to 0.02 you make the line thicker, f.ex. 1.0. Then you can either choose a colour for the image there or later, in the embroidery machine.
+     If you want to design an image where you are only using lines, you can follow the directions [here](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) in the book by Hafey Hallgrímsdóttir on how to create a sticker but when you have clicked on **Object** and then **Fill and stroke**, turned **Fill** off and turned on **Stroke paint**....then instead of setting the stroke style to 0.02 you make the line thicker, f.ex. 1.5. That is the minimal thickness but the line can be thicker. Then you can either choose a colour for the image there or later, in the embroidery machine.
 
  ![ ](saumavel/Bootcamp_saumavél_FillAndStroke.jpg)  
 
@@ -293,8 +293,5 @@ Sarah and Alissa tried and failed mission, preparing inkspace file for seeing te
 Ólöf helped us in finding out how to save the svg and pes files for checking the text ifit appears, but that unfortunately did not work. Yout Tube video gave us the hint about inkspace lettering, worked for us to place the text and see it simulated, but did not work to get the right colour and design as prepared beforehands on inkspace. Now, we figured it out, so it will be stitched with the text and the temporary logo for the Textíllab.
 
 Pictures are following.
-
-![saumavel](../docs/assets/img/saumavel/IMG_6317.jpeg)
-
 
 ![saumavel](../assets/img/IMG_6317.jpeg)
