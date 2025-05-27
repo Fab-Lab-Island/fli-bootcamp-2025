@@ -316,7 +316,7 @@
 ![ ](saumavel/Week17_FillAndOutlineReady800x584.jpg)
 
 
-### Experimenting
+## Experimenting
 
 Sarah and Alissa tried and failed mission, preparing inkspace file for seeing text in inkstitch. Troubleshoot on written Name in Inkspace when simulating the graphic and text, onlz the logo graphic was visible for stitching simulation/preview.
 
