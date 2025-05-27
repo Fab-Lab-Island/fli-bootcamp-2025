@@ -58,86 +58,86 @@
 
 !!! info ".pes skrá býr til feril fyrir saumavél"
     
-    Á myndinni hér fyrir neðan sést hvernig  .pes file has generated a path for the embroidery machine. You can see how the thread will be laid down.
+    Á myndinni hér fyrir neðan sést hvernig .pes hefur búið til feril fyrir útsaumsvélina. Þarna sést hvernig tvinninn verður lagður niður.
 
 ![ ](saumavel/Bootcamp_s_PesFileFill.jpg)
 
 
-### Image with only lines
+### Unnið með línur
 
-!!! info "Creating a image for the embroidery machine"
+!!! info "Að búa til útlínumynd fyrir útsaumsvélina"
     
-     If you want to design an image where you are only using lines, you can follow the directions [here](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) in the book by Hafey Hallgrímsdóttir on how to create a sticker but when you have clicked on **Object** and then **Fill and stroke**, turned **Fill** off and turned on **Stroke paint**....then instead of setting the stroke style to 0.02 you make the line thicker, f.ex. 1.0. Then you can either choose a colour for the image there or later, in the embroidery machine.
+     Ef þú vilt búa til útlínumynd getur þú fylgt leiðbeiningunum [hér](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) í bókinni eftir Hafey Hallgrímsdóttur um hvernig eigi að búa til límmiða en þegar þú hefur smellt á **Hlutur** og **Fylling og útlína**, slökkt á **Fylling** og kveikt á **Litur útlínu**....þá, í stað þess að stilla **Stíll útlínu** á 0.02 gerir þú línuna þykkari. Það er gott a miða við að hafa línuna að lágmarki 1.5. Svo getur þú valið lit á línuna en þær stillingar eru svo endanlega gerðar í útsaumsvélinni síðar.
 
  ![ ](saumavel/Bootcamp_saumavél_FillAndStroke.jpg)  
 
 
-!!! info "Converting line to satin"
+!!! info "Að nota Convert line to Satin"
     
-     The next step is to click on **Extensions**, **Ink/Stitch**, **Tools: satin** and then **Convert line to satin**.
+     Næsta skref er að smella á **Extensions**, **Ink/Stitch**, **Tools: satin** og svo **Convert line to satin**.
 
 ![ ](saumavel/Bootcamp_saumavél_ConvertLineToSatin.jpg)
 
-!!! info "Saving as a .pes file"
+!!! info "að vista sem .pes file"
     
-    The next step is to save the file as a **.pes file**. You can choose any colour for the fill in the file and then you can change the colours when adjusting settings in the embroidery machine. 
+    Næst er skráin vistuð sem **.svg** skrá. Þessa skrá er hægt að nota síðar ef það reynist þörf á að breyta hönuninni. Svo er skráin vistuð sem **.pes file**. 
     
 ![ ](saumavel/Bootcamp_saumavél_SaveAsPes.jpg)
 
-!!! info "A .pes file generates the sewing path"
+!!! info ".pes skrá býr til útsaumsferilinn"
     
-    In the image below you can see how the .pes file has generated a path for the embroidery machine. You can see how the thread will be laid down.
+    Á myndinni hér fyrir neðans sést hvernig .pes skráin bjó til feril fyrir þetta verkefni. Þráðurinn sést vel.
 
 ![ ](saumavel/Bootcamp_saumavél_LineConverted.jpg)
 
-!!! info "Fastening the material"
+!!! info "Að festa efnið"
     
-    In this project a reusable bag was used. The material was fastened in an embroidery frame. The inner frame frame was placed inside the reusable bag and on top of it, also inside the bag, a  stabilizing backing was placed. It is important to make sure that the stabilizing backing is a bit bigger than the frame so that it can fit between the inner frame and the outer frame. After adjusting the placement of the inner frame + the stabilizing backing, the outer frame is placed on top of the reusable bag and pressed down until the frames fit together. Then the screw is tightened to keep the material in place.
+    Margnota taupoki var notaður í þetta verkefni. Efnið var fest í sérstakan útsaumsramma. Innri hluti útsaumsrammans var lagður innan í taupokann. Svo var bútur af stuðningsefni lagður ofan á rammann, semsagt einnig inni í pokanum. Það er mikilvægt að búturinn af stuðningsefninu sé nógu stór til að geta fallið á milli innri rammans og ytri rammans. Eftir að búið er að stilla af staðsetninguna á innri rammanum+stuðningsefninu er ytri ramminn lagður ofan á efnið og honum þrýst niður þannig að hann falli utan um innri rammann sem er hinum megin við efnið. Svo er skrúfan hert til að halda efninu á sínum stað. Þess er gætt að efnið sé nógu vel strekkt til að hægt sé að banka létt á efnið eins og trommu.
 
 ![ ](saumavel/Week17_EmbroideryFrameAndStabilizer.jpg)
 
 ![ ](saumavel/Week17_Frame1000x750.jpg)
 
 
-!!! tip "Arranging the layers"
+!!! tip "Röðun á lögum ræður röðun á útsaumi"
     
-    You can control which layer is stitched first and which layers follow. The machine always begins with the layer at the bottom on the list of layers in Inkscape and then follows the layers upwards. This means that you can arrange the layers if the order of the layers matters. Just drag the layers to arrange them to your preferred setup.
+    Þegar unnið er með fleiri en einn litaflöt og línur í Inkscape verða til nokkur lög (e. layers) í Inkscape. Það er hægt að stýra því á hvaða litafleti vélin byrjar. Vélin byrjar ávallt á því lagi sem er neðst á listanum í Inkscape og fylgir svo lögunum uppávið. Þetta þýðir að þú getur breytt röðun laganna ef það skiptir máli í hvaða röð saumað er. Dragðu bara lögin til þar til röðunin er eins og óskað er eftir.
 
-!!! info "Offsetting"
+!!! info "Að nota Offset"
     
-     When I started to document this, I could not remember how to group the letters in the right way to be able to use a function called **Dynamic offset**. I found an answer by Lazur to a question in the [Inkscape forum](https://alpha.inkscape.org/vectors/www.inkscapeforum.com/viewtopic93da.html?t=15368). It is second in line from the top.
+     Þegar ég byrjaði að skrá þetta niður mundi ég ekki hvernig ætti að hópa bókstafi saman á réttan hátt til að geta notað svokallað **Dynamic offset**. Ég fann svar frá einstaklingi, Lazur að nafni, við spurningu á [Inkscape forum](https://alpha.inkscape.org/vectors/www.inkscapeforum.com/viewtopic93da.html?t=15368). Svarið er annað í röðinni ofan frá.
 
-     Lazur says that you can use shortcuts. First you can use **Object to path** on a text to turn it into a group of paths. Then you do the following:
+     Lazur segir að það sé hægt að nota flýtileiðir. Eftirfarandi skrefum er fylgt:
 
-     - Press **Shift+Ctrl+C** to convert text to path
+     - Ýttu á **Shift+Ctrl+C** til að breyta texta í feril
 
-     - Press **Shift+Ctrl+G** to group
+     - Ýttu á **Shift+Ctrl+G** til að ferlarnir verði saman í hópi
 
-     - Press **Ctrl+K** to combine paths
+     - Ýttu á **Ctrl+K** til að sameina ferla
 
-     Can you see the tiny, blue diamond handle at the top of the bounding box in the image below? You can now grab it and resize (offset) the whole design.
+     Sérðu pínulitla, bláa demantinn/tígulinn ofarlega í hönnuninni á myndinni hér fyrir neðan? Nú er hægt að grípa hann og draga hann til þannig að hönnunin minnki öll eða stækki (offset).
 
 ![ ](saumavel/W17_DynamicOffset700x400.jpg)
 
-!!! tip "Shortcuts in Inkscape"
+!!! tip "Flýtileiðir í Inkscape"
     
-     [Here](https://inkscape.org/doc/keys091.html) you can find a list of all shortcuts in Inkscape.
+     [Hér](https://inkscape.org/doc/keys091.html) er að finna lista yfir allar flýtileiðir í Inkscape.
 
-!!! info "Aligning fill and outline"
+!!! info "Að jafna og dreifa"
     
-     The outline forms grouped the outline forms together by pressing **Shift+Ctrl+G**. Then I left-clicked on my mouse and dragged over both designs to select all. Then I clicked on **Object** and then **Align and distribute**.
+     Ýttu á **Shift+Ctrl+G** til að ná öllum útlínuformunum saman í hóp. Veldu svo öll form í skjalinu með því að vinstrismella á músina og draga hana yfir allt. Svo er smellt á **Hlutur** og svo **Jafna og dreifa**.
 
 ![ ](saumavel/W17_AlignAndDistribute.jpg)
 
-!!! info "Aligning done"
+!!! info "Jöfnun og dreifing framkvæmd"
     
-     Then you click on the symbols for aligning on the x-axis and the y-axis. Then the two forms will be aligned.
+     Svo er smellt á táknin fyrir það að jafna á x-ás og y-ás. Þá er búið að staðsetja þau jafnt saman.
 
 ![ ](saumavel/W17_Aligned.jpg)
 
-!!! info "Embroidery ready"
+!!! info "Útsaumur tilbúinn"
     
-     This is what the fill and outline looks like after embroidering. The thickness of the line in a design like this can be adjusted.
+     Svona leit verkefnið út eftir að vélin saumaði það út. Athugið að það er hægt að nota misþykkar útlínur í svona verkefnum, allt eftir smekk hvers og eins.
 
 ![ ](saumavel/Week17_FillAndOutlineReady800x584.jpg)
 
