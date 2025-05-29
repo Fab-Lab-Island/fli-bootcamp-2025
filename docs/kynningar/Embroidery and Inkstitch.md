@@ -1,5 +1,3 @@
-## Embroidery and Inkstitch
-
 This page is dedicated to going over some of the embroidery techniques that were used in Húsavík.
 
 [Inkstitch Install Link](https://inkstitch.org/docs/install/)
