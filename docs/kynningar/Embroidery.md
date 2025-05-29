@@ -38,5 +38,5 @@ They are using was a Brother PR680W 6-Needle embroidery machine.
 
 When using the machine I noticed that the tread area was not labeled. It is need to be able to quickly change trad colors and ensure the machine is treaded correctly. I just cut 1-6 out on the vinyl cutter and then added them to the machine. 
 
-![Numbering on Machine](../assets/img/embroidery/emb_husavik_2){loading=lazy}
+![Numbering on Machine](../assets/img/embroidery/emb_husavik_2.jpg){loading=lazy}
 
