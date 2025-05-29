@@ -27,12 +27,14 @@ These are the tutorials I watch to get used to using inkstitch. They cover the b
 ### Test File for Inkstitch
 
 So this is an image of the file before converting the line (stroke) to satin. 
-![File before satin conversion.](../assets/img/embroidery/husavik_stitch.jpg){loading=lazy}
+
+![File before satin conversion.](../assets/img/embroidery/husavik_stitch.jpg)
 
 → **Extensions > Ink/Stitch > Tools: Satin > Convert Line to Satin**
 
 This is the file after the conversion. 
-![File after satin conversion](../assets/img/embroidery/husavik_stitch2.jpg){loading=lazy}
+
+![File after satin conversion](../assets/img/embroidery/husavik_stitch2.jpg)
 
 It is good to check you work before exporting as a .pes file by using the simulator. → **extensions > ink/stitch > visualize and export > simulator**
 
