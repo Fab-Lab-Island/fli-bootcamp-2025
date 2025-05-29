@@ -1,8 +1,10 @@
 ## Embroidery and Inkstitch
 
-This page is deticated to going over some of the embroidery techniques that were used in Húsavík.
+This page is dedicated to going over some of the embroidery techniques that were used in Húsavík.
 
 [Inkstitch Install Link](https://inkstitch.org/docs/install/)
+
+
 
 ### Youtube tutorial for Inkstitch
 
@@ -16,13 +18,13 @@ The [Satin Stitch Tutorial](https://www.youtube.com/watch?v=Sqy_QTgPYH4) show yo
 
 ### Inkstitch Basic Principles
 
-Inkstitch .pes file also build from the bottom up. The shape on the lowest on the layer will stitch first and the top object will stitch last. You can alway check how it will stitch by going to **extenstions> ink/stitch> visulize and export> simulator**
+Inkstitch .pes file also build from the bottom up. The shape on the lowest on the layer will stitch first and the top object will stitch last. You can alway check how it will stitch by going to **extensions> ink/stitch> visualize and export> simulator**
 
-Filled ojects are fill stitch by default. 
+Filled objects are fill stitch by default. 
 
 Dashed line are a single stitch.
 
-All texts need to be converted from odject to stroke. Also, they sometimes need to be ungrouped. 
+All texts need to be converted from object to stroke. Also, they sometimes need to be ungrouped. 
 **path > object to path**
 
 Satin line thickness should never be less than 1.5 mm, however 2.0 mm or more is the most ideal.
@@ -31,3 +33,10 @@ Satin line thickness should never be less than 1.5 mm, however 2.0 mm or more is
 They are using was a Brother PR680W 6-Needle embroidery machine. 
 
 [The Machine](https://sewingcraft.brother.eu/en/products/machines/semi-pro-embroidery-machines/semi-pro-embroidery-machines/pr680w)
+
+![Brother Machine](../assets/img/embroidery/PR680W_main.png){loading=lazy}
+
+When using the machine I noticed that the tread area was not labeled. It is need to be able to quickly change trad colors and ensure the machine is treaded correctly. I just cut 1-6 out on the vinyl cutter and then added them to the machine. 
+
+![Numbering on Machine](../assets/img/embroidery/emb_husavik_2){loading=lazy}
+
