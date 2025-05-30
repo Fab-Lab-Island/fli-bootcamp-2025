@@ -14,8 +14,8 @@ Stefán forstöðumaður fab Lab Húsavíkur býður ykkur velkomin!
 
 ## Bootcamp fyrri ára
 
-📍 **[2024 – Selfoss](https://fab-lab-island.github.io/fli-bootcamp-2024/)**
-📍 **[2023 – Neskaupstaður](https://fab-lab-island.github.io/fli-bootcamp-2023/)**  
+📍 **[2024 – Selfoss](https://fab-lab-island.github.io/fli-bootcamp-2024/)**<br>
+📍 **[2023 – Neskaupstaður](https://fab-lab-island.github.io/fli-bootcamp-2023/)**  <br>
 📍 **[2022 – Ísafjörður]()**<br>
 📍 **[2021 – Höfn í Hornafirði]()**<br>
 📍 **[2020 – Akureyri]()**<br>
