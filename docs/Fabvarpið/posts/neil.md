@@ -15,7 +15,7 @@ categories:
 
 # Neil Gershenfeld heilsar upp á Fab Lab Ísland hópinn
 
-Neil Gershenfeld, stofnandi og leiðtogi Fab Lab smiðjanna á heimsvísu, heilsaði upp á hópinn í byrjun miðvikudagsfyrirlestrarins í Fab Academy. Þórarinn Bjartur Breiðfjörð tók að sér að sýna nemendum um allan heim inn í Fab Lab Húsavík og svara spurningum Neils um hvað væri verið að gera. 
+[Neil Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld), stofnandi og leiðtogi Fab Lab smiðjanna á heimsvísu, heilsaði upp á hópinn í byrjun miðvikudagsfyrirlestrarins í Fab Academy. Þórarinn Bjartur Breiðfjörð tók að sér að sýna nemendum um allan heim inn í Fab Lab Húsavík og svara spurningum Neils um hvað væri verið að gera. 
 
 Neil minnist á hverju ári á það að íslensku Fab Lab smiðjurnar séu einhver þéttasti hópur Fab Lab smiðja sem um getur. Fab Lab Ísland hittist vikulega á netinu og einu sinni á ári er haldið bootcamp í einni smiðjunni þar sem allir mæta á staðinn og deila þekkingu og nýjum aðferðum.
 
@@ -25,20 +25,20 @@ Fab Academy nemendurnir [Ólöf Hannesdóttir](https://fabacademy.org/2025/labs/
 
 <!-- more -->
 
-Ólöf bjó til [listaverk](https://fabacademy.org/2025/labs/isafjordur/students/olof-hannesdottir/final-project/) sem lætur leið hvalsins á milli Íslands og Karíbahafsins lýsast upp. Ólöf lætur hvalinn sjálfan svífa yfir sjónum með rafsegli. 
+Ólöf bjó til listaverk sem lætur leið hvalsins á milli Íslands og Karíbahafsins lýsast upp. Ólöf lætur hvalinn sjálfan svífa yfir sjónum með rafsegli. 
 
 ![Travels of a Humpback Whale](https://fabacademy.org/2025/labs/isafjordur/students/olof-hannesdottir/presentation.png)
 
 <video controls width=100%>
         <source src="https://fabacademy.org/2025/labs/isafjordur/students/olof-hannesdottir/presentation.mp4" type="video/mp4">
-</video>
+</video>*Meiri upplýsingar um verkefni Ólafar eru [hér](https://fabacademy.org/2025/labs/isafjordur/students/olof-hannesdottir/final-project/).*
 
-Magnús bjó til [vél](https://fabacademy.org/2025/labs/reykjavik/students/magnus-petursson/projects/final-project/) sem notar mótora til að fletta Magic the Gathering spilum úr safni sínu, einu í einu og greina hvaða spil er um að ræða með tölvusjón. Þannig getur hann fengið yfirsýn yfir öll spilin, sem skipta tugum þúsunda.
+Magnús bjó til vél sem notar mótora til að fletta Magic the Gathering spilum úr safni sínu, einu í einu og greina hvaða spil er um að ræða með tölvusjón. Þannig getur hann fengið yfirsýn yfir öll spilin, sem skipta tugum þúsunda.
 
 ![The Card-A-Pult](https://fabacademy.org/2025/labs/reykjavik/students/magnus-petursson/presentation.png)
 
 <video controls width=100%>
         <source src="https://fabacademy.org/2025/labs/reykjavik/students/magnus-petursson/presentation.mp4" type="video/mp4">
-</video>
+</video>*Meiri upplýsingar um verkefni Magnúsar eru [hér](https://fabacademy.org/2025/labs/reykjavik/students/magnus-petursson/projects/final-project/).*
 
 
