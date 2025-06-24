@@ -15,11 +15,13 @@ categories:
 
 # Neil Gershenfeld heilsar upp á Fab Lab Ísland hópinn
 
-Neil Gershenfeld heilsaði upp á hópinn í byrjun miðvikudagsfyrirlestrarins í Fab Academy. Þórarinn Bjartur Breiðfjörð tók að sér að sýna nemendum um allan heim inn í Fab Lab Húsavík og svara spurningum Neils um hvað væri verið að gera. Neil minnist á hverju ári á það að íslensku Fab Lab smiðjurnar séu einhver þéttasti hópur Fab Lab smiðja sem um getur; við hittumst vikulega á netinu og einu sinni á ári er haldið bootcamp í einni smiðjunni þar sem allir mæta á staðinn.
+Neil Gershenfeld, stofnandi og leiðtogi Fab Lab smiðjanna á heimsvísu, heilsaði upp á hópinn í byrjun miðvikudagsfyrirlestrarins í Fab Academy. Þórarinn Bjartur Breiðfjörð tók að sér að sýna nemendum um allan heim inn í Fab Lab Húsavík og svara spurningum Neils um hvað væri verið að gera. 
+
+Neil minnist á hverju ári á það að íslensku Fab Lab smiðjurnar séu einhver þéttasti hópur Fab Lab smiðja sem um getur. Fab Lab Ísland hittist vikulega á netinu og einu sinni á ári er haldið bootcamp í einni smiðjunni þar sem allir mæta á staðinn og deila þekkingu og nýjum aðferðum.
 
 ![Neil Gershenfeld - Fab Academy fyrirlestur](../../myndir/neil-gershenfeld-fab-lab-husavik.jpg)*Upptöku frá sýndarheimsókn Neils má sjá á fyrstu mínútunum í [þessu myndbandi](https://vimeo.com/1087090935).*
 
-Fab Academy nemendurnir [Ólöf Hannesdóttir](https://fabacademy.org/2025/labs/isafjordur/students/olof-hannesdottir/about/) og [Magnús Pétursson](https://fabacademy.org/2025/labs/reykjavik/students/magnus-petursson/about/) tóku frá miðvikudaginn kl. 13 til að mæta á fyrirlestur Neil Gershenfeld, sem fjallaði um [applications and implications](https://academy.cba.mit.edu/classes/applications_implications/index.html) og [project development](https://academy.cba.mit.edu/classes/project_development/index.html). Nú er Fab Academy að klárast og nemendurnir eru að vinna að lokaverkefnunum sínum. 
+Fab Academy nemendurnir [Ólöf Hannesdóttir](https://fabacademy.org/2025/labs/isafjordur/students/olof-hannesdottir/about/) og [Magnús Pétursson](https://fabacademy.org/2025/labs/reykjavik/students/magnus-petursson/about/) tóku frá miðvikudaginn kl. 13 til að mæta á fyrirlesturinn hjá Neil Gershenfeld, sem fjallaði um [applications and implications](https://academy.cba.mit.edu/classes/applications_implications/index.html) og [project development](https://academy.cba.mit.edu/classes/project_development/index.html). Nú er Fab Academy að klárast og nemendurnir eru að vinna að lokaverkefnunum sínum. 
 
 <!-- more -->
 
